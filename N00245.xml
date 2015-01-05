@@ -121,8 +121,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000313_0000_0FA4A9DC5F34D4A0"/>
-            <pb facs="tcp:000313_0001_0FA4A9DCE5893CD8"/>
+            <pb facs="unknown:000313_0000_0FA4A9DC5F34D4A0"/>
+            <pb facs="unknown:000313_0001_0FA4A9DCE5893CD8"/>
             <p>A PUBLICK TRYAL OF THE Quakers IN BARMUDAS Upon the first Day of <hi>May,</hi> 1678.</p>
             <p>
                <hi>First,</hi> The <hi>Charge</hi> against them was openly read, containing these Particulars: As</p>
@@ -151,7 +151,7 @@
                <hi>BOSTON IN NEW-ENGLAND:</hi> Printed by <hi>Samuel Green,</hi> upon Assignment of <hi>Samuel Sewall:</hi> 1682.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:000313_0002_0FA4A9DDB95A9E00"/>
+            <pb facs="unknown:000313_0002_0FA4A9DDB95A9E00"/>
             <head>THE PREFACE TO THE CHRISTIAN READER.</head>
             <p>B<hi>Eing lately informed, that the</hi> Quakers <hi>had left a Paper</hi> (with a Gentleman in these Islands) <hi>intimating a chalenge to the</hi> Mini<g ref="char:EOLhyphen"/>sters <hi>here,</hi> 
                <abbr>
@@ -165,7 +165,7 @@
                   </gap>ignifie unto them,</hi> sc. <hi>That as they had accepted the</hi> Paper <hi>which I had sent to them, so they had there<g ref="char:EOLhyphen"/>by bound themselves to all the terms and conditions therein expressed: as</hi> Name<g ref="char:EOLhyphen"/>ly. 1. <hi>That the Disputation is to be</hi> Regular; <hi>that is to say, I am (in the first place) to prove the whole</hi> Charge, <hi>without any interruption from any one of you; That then any one or more of you may (without interruptions from me) answer my Arguments, or give your Assent.</hi> 2. <hi>That the Disputation is to be</hi> peaceable; <hi>that is to say, one person only</hi> (at a time) <hi>is to Answer; That the Disputation may not end</hi> (as usually such kind of Disputes have done) <hi>in an unprofitable Confusion, but to the satisfaction of the numerous, and ju<g ref="char:EOLhyphen"/>diciou<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> Hearers: And that at the end of all,</hi> They <hi>may judge (according to
-<pb facs="tcp:000313_0003_0FA4A9DE7A9252E0"/>
+<pb facs="unknown:000313_0003_0FA4A9DE7A9252E0"/>
 the</hi> Scriptures of Truth) <hi>between you and me: Let me here pray the</hi> Rea<g ref="char:EOLhyphen"/>der <hi>to take notice, that not any thing said by me</hi> (<hi>touching the</hi> Regular <hi>and</hi> Peaceable Disputation) <hi>was gain said by any of them, whose</hi> silence <hi>was</hi> (by all the Hearers) <hi>taken for their full consent: yet, notwithstanding; herein, they declared themselves most unfaithful, for they frequently interrupted me, more especially, by casting in impertinent objections, ere I had half answer<g ref="char:EOLhyphen"/>ed this or that Scripture, which some one or other or them had proposed; thereby in design</hi> (as I thought) <hi>to obstruct the special matter, ready to be uttered for the satisfaction of the Attentive Hearers; which urged me</hi> (as I must con<g ref="char:EOLhyphen"/>fess) <hi>unadvisedly to say, that what I had, and should then have declared, I would cause to be</hi> Printed <hi>that full returnes might be given to the objections made, and Scriptures</hi> wrested <hi>by them: saying,</hi> If I could not he heard I would be read: <hi>here withal, I cannot deny, but that I have in the returns in<g ref="char:EOLhyphen"/>serted sundry things from judicious</hi> Authors (for confirmation) <hi>or further explication which I might not then have alledged, though I had not met with any interruption at all: And forasmuch as some of them have</hi> (as I am in<g ref="char:EOLhyphen"/>formed) since <hi>said,</hi> that their business was not managed aright by them, and that some things were forgotten to be spoke<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>: <hi>not only these but all other things which might seem for their advantage, I have</hi> (in their due pla<g ref="char:EOLhyphen"/>ces) <hi>set down and answered; upon the whole I do assure the</hi> Reader, <hi>I should not have given my self this trouble; had they not</hi> (by their manifold inter<g ref="char:EOLhyphen"/>ruptions) <hi>provoked me to make that inconsiderate open</hi> promise <hi>as above: concerning which many of the </hi>Hearers <hi>have since been my frequent</hi> Remem<g ref="char:EOLhyphen"/>brancers; <hi>and probably others may be ready</hi> (on default of performance) <hi>to reflect slanderously upon me, whose</hi> reviling rudeness <hi>is but too well known:</hi>
@@ -179,7 +179,7 @@ the</hi> Scriptures of Truth) <hi>between you and me: Let me here pray the</hi> 
          <div type="errata">
             <head>ERRATA.</head>
             <p>Page 18. line 19. read doubled. p. 38. l. 40. r. assert. p. 51. l. 13. for believed, read belied the Letter. p. 81. l. 11. r. free. p. 85. l. 11. for person r. reason. p. 100 l. 24. r. either.</p>
-            <pb facs="tcp:000313_0004_0FA4A9DF50DF0BC8"/>
+            <pb facs="unknown:000313_0004_0FA4A9DF50DF0BC8"/>
             <gap reason="duplicate" extent="1 page">
                <desc>〈1 page duplicate〉</desc>
             </gap>
@@ -187,7 +187,7 @@ the</hi> Scriptures of Truth) <hi>between you and me: Let me here pray the</hi> 
       </front>
       <body>
          <div n="1" type="charge">
-            <pb n="1" facs="tcp:000313_0005_0FA4A9E011647808"/>
+            <pb n="1" facs="unknown:000313_0005_0FA4A9E011647808"/>
             <head>The First Part of the Charge; is
 THat a Quakers pretended Saviour within him, is not the true Christ, but the false Christ, the Devil.</head>
             <p>Which was proved by four <hi>Apostolical Arguments.</hi>
@@ -203,7 +203,7 @@ THat a Quakers pretended Saviour within him, is not the true Christ, but the fal
                   <hi>Acts</hi> 10 38,39,40 42,43. God anointed Jesus of <hi>Nazareth,</hi> with the Holy Ghost, and with power: Whom they (<hi>Jews</hi>) flew and hang<g ref="char:EOLhyphen"/>ed on a Tree: Him God raised up the third day, and shewed him o<g ref="char:EOLhyphen"/>penly: And he commanded us, to Preach unto the People, and to te<g ref="char:EOLhyphen"/>stifie that it is he which was ordained of God, to be the judge of quick and dead: To him give all the Prophets witness, that through his Name whosoever believeth in him, shall receive remission of sins.</p>
             </q>
             <p>
-               <pb n="2" facs="tcp:000313_0006_0FA4A9E10FE5CB30"/>
+               <pb n="2" facs="unknown:000313_0006_0FA4A9E10FE5CB30"/>
                <hi>From these Texts of Scripture, the</hi> 1<hi>st.</hi> Argument <hi>did arise:</hi> To wit,</p>
             <q>
                <p>If Jesus Christ of <hi>Nazareth</hi> a Man approved of God among the People of <hi>Israel,</hi> be the true Christ and only Saviour, then a <hi>Quakers</hi> pretended Saviour within him, is not the true Christ:</p>
@@ -226,7 +226,7 @@ THat a Quakers pretended Saviour within him, is not the true Christ, but the fal
                <p>
                   <hi>Arg.</hi> 3. Because the true Christ and our only Saviour, did at once (without us) in and by his one crucified body on the Cross, finish and compleat the work and office of a Saviour: as in</p>
                <p>
-                  <pb n="3" facs="tcp:000313_0007_0FA4A9E196A9F8B0"/>
+                  <pb n="3" facs="unknown:000313_0007_0FA4A9E196A9F8B0"/>
                   <hi>Heb.</hi> 10. 12,14. By the which will we are Sanctified, (<hi>that is, Saved</hi>) through the Offering of the Body of Jesus Christ once for all: And this man alter he had offered one Sacrifice for sins, <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>or ever sate down on the right hand of God; for by one offering he hath perfected for ever them that are Sanctified.</p>
@@ -261,7 +261,7 @@ THat a Quakers pretended Saviour within him, is not the true Christ, but the fal
                      <desc>•</desc>
                   </gap>e on the right hand of God.</p>
                <p>
-                  <pb n="4" facs="tcp:000313_0008_0FA4A9E476DB3298"/>
+                  <pb n="4" facs="unknown:000313_0008_0FA4A9E476DB3298"/>
                   <hi>Act.</hi> 1. 11. 'Ye men of <hi>Galilee,</hi> why stand ye gazing into Heaven, this same Jesus which is taken up from you into heaven, shall so come in like manner, as ye have seen him go into heaven.</p>
                <p>
                   <hi>Act.</hi> 3. 13,21. 'The God of <hi>Abraham,</hi> and of <hi>Isaac,</hi> and of <hi>Jacob,</hi> the God of our Fathers hath glorified his Son Jesus. Whom the hea<g ref="char:EOLhyphen"/>vens must receive until the times of restitution of all things.</p>
@@ -299,7 +299,7 @@ THat a Quakers pretended Saviour within him, is not the true Christ, but the fal
                   </gap>stlack</hi> interrupted me, pretending to make some <hi>Answer</hi> to the <hi>foregoing Arguments:</hi> I told him, that by mutual consent (as in the <hi>Pre<g ref="char:EOLhyphen"/>face</hi> is Declared) the whole charge against them, was first to be proved by me, before any <hi>Answer</hi> should be returned by him, o<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> any other of his
-<pb n="5" facs="tcp:000313_0009_0FA4A9E5255CDD78"/>
+<pb n="5" facs="unknown:000313_0009_0FA4A9E5255CDD78"/>
                <hi>Friends;</hi> Therefore, I requested him, that as he had any regard either to <hi>Truth</hi> or <hi>Honesty,</hi> that he would forbear his interruptions; that I might proceed (according <hi>agreement</hi> as above) to prove the <hi>second part</hi> of the charge: but his <hi>Sepulchre</hi> being opened, he refused to shut it: whereupon I spake to the <hi>Assembly,</hi> saying, I must let him take his own way, <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>o prevent greater confusion: howbeit instead of Answering (<hi>as he pretended the above<g ref="char:EOLhyphen"/>mentioned</hi>) <hi>Arguments,</hi> or any of them: He first impertinently runs out, in<g ref="char:EOLhyphen"/>to a bare Repetition of, some words in the former part of the first Chapter of the <hi>Evangelist John,</hi> sc. from the 1<hi>st.</hi> verse to the end of the 12<hi>th.</hi> verse, which shall be mentioned and considered in their due places: let me note by the way, his after stragling inferences from those verses: To wit, <hi>That God the Word, took Flesh of the Virgin Mary, and in that Flesh suffered Death for all men,</hi> (which he put a special <hi>Remark upon,</hi> by repeating it twice) it was well observed, that he made no mention of <hi>Christs Resur<g ref="char:EOLhyphen"/>rection,</hi> but further said, <hi>sc. The Word which is God, is Christ; the true Light, which was manifest in the flesh, and as in him, so in every man that comes into the World, as manifest in them, which</hi> quoth he) <hi>is witnessed by John<g ref="char:punc">▪</g>
@@ -309,7 +309,7 @@ THat a Quakers pretended Saviour within him, is not the true Christ, but the fal
                <hi>I slay</hi>) either answer the Arguments which have proved the <hi>first part</hi> of the charge, (as you pre<g ref="char:EOLhyphen"/>tended, to <hi>Mask</hi> your interrupting of me, or take some <hi>Answer</hi> to what you have said: His first Reply was, the Scripture <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>aith, <hi>Call no man Master,</hi> I told him the Scripture saith, <hi>sc. Mat.</hi> 23. 10 <hi>Neither be ye called Masters, for one is your Master even Christ;</hi> which is not to be un<g ref="char:EOLhyphen"/>derstood in your <hi>unmannerly</hi> sense: likewise I told him that he had no cause to <hi>quarrel</hi> the word [<hi>Master</hi>] for <hi>you</hi> affirm the <hi>Master,</hi> (<hi>even Christ</hi>) is within you <hi>Quakers,</hi> making your selves the greatest <hi>Masters;</hi> so that <hi>herein</hi> are fulfilled among you, the word of our Lord concerning <hi>Decei<g ref="char:EOLhyphen"/>vers,</hi> namely, <hi>that false Christs shall arise, and many shall say, I am Christ, and shall deceive many,</hi> Mat. 24.5. Further more I said unto him, <hi>sc. Thou art the Master of an Assembly,</hi> to wit <hi>of the Synagogue of Libertines:</hi> which opposed and persecuted the faith of <hi>Blessed Stephen, for believing in Jesus Christ of Nazareth, to be the true Christ and only Saviour,</hi> Act. 6. 8,9,14,59. At this he grew <hi>impatient,</hi> rebuking me, saying, Thou didst promise not to interrupt me; I replied, that I did not interrupt, but help him, <hi>sc.</hi> to remember that my promise was, not to interrupt him or any of his party, whilest he or any of them, were answering the Arguments urged by me, (as it may appear in the prefixed <hi>Preface:</hi> But he said, that
-<pb n="6" facs="tcp:000313_0010_0FA4A9E755A83C38"/>
+<pb n="6" facs="unknown:000313_0010_0FA4A9E755A83C38"/>
 he did not value the <hi>Arguments,</hi> for they proved nothing, (thus, he that was a party, made himself the determin<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ting <hi>Judge,</hi>) and then with a throat stretched voice, returned to his former discourse, <hi>That the Word is Christ, the true Light in the Flesh, sent to save men from sin and death, whose death and sufferings with the effect thereof, we do own and witness, ac<g ref="char:EOLhyphen"/>cording to the Scriptures, as inwardly received within us:</hi> yet speaking other whiles of the death, satisfaction and sufferings of Christ, the true Light, as done within us, for us: to which (said he) the Scripture testifies repeating these words, <hi>But the righteousness which is of Faith, speaketh on this wise, say not in thy heart, who shall ascend into Heaven; (that is to <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -320,7 +320,7 @@ he did not value the <hi>Arguments,</hi> for they proved nothing, (thus, he that
                </gap>ay to <hi>dismember</hi>) Scrip<g ref="char:EOLhyphen"/>ture words, out of the <hi>Evangelists,</hi> and the <hi>Apostles,</hi> thereby endeavour<g ref="char:EOLhyphen"/>ing to cover themselves from being discovered; not plninsy, nor honest<g ref="char:EOLhyphen"/>ly mentioning either <hi>Chapters</hi> or <hi>Verses,</hi> (<hi>William Bullock</hi> once excepted) though often called upon, but all in vain: they would speak Scripture words (after their usual manner) darkly and confusedly, thereby the more easily to deceive those with whom the Scriptures have any credit; I shall (<hi>at present</hi>) decline any further observation of this their dangerous and designful practice; and proceed to the above signifi<g ref="char:EOLhyphen"/>ed <hi>Method:</hi> And</p>
             <p n="1">1. As touching the first Chapter of the <hi>Evangelist John</hi> (with which he began as above) It treats of the <hi>God<g ref="char:punc">▪</g>head</hi> of the Son alone (the eter<g ref="char:EOLhyphen"/>nal-Word) from the first verse to the end of the fifth verse: and then of the person of Christ (<hi>God-man</hi>) from thence to the end of the Chapter, some of these verses (for satisfaction sake) I shall touch a little in their order.</p>
             <p>
-               <pb n="7" facs="tcp:000313_0011_0FA4A9E8B4C6E510"/>
+               <pb n="7" facs="unknown:000313_0011_0FA4A9E8B4C6E510"/>
 First, Of the <hi>Eternal Word,</hi> the <hi>Godhead</hi> of the Son, (as in <hi>ver.</hi> 1,2,3) <hi>In the Beginning was the Word, and the Word was with God, and the Word was God; the same was in the beginning with God; all things were made by him, and without him was not any thing made that was made.</hi> These verses denote to us, that its only the <hi>Godhead</hi> of<g ref="char:punc">▪</g> the Son, that did <hi>Create.</hi>
             </p>
             <p>ver. 14. <hi>The Word was made flesh, and dwelt among us,</hi> i.e. <hi>whole Christ,</hi> God man in one person; as such, he created nothing, only as God, so he created all things.</p>
@@ -344,7 +344,7 @@ First, Of the <hi>Eternal Word,</hi> the <hi>Godhead</hi> of the Son, (as in <hi
                   <desc>•</desc>
                </gap> 
                <hi>Jerusalem;</hi> how<g ref="char:EOLhyphen"/>beit, as it comes from a <hi>Teaching Quaker,</hi> it is undoubtedly no other, then
-<pb n="8" facs="tcp:000313_0012_0FA4A9E8F7D6D490"/>
+<pb n="8" facs="unknown:000313_0012_0FA4A9E8F7D6D490"/>
 a deceitful shifting of the matter in question: yet I am ready to grant, that <hi>F. E.</hi> and his Partners may believe, that there was such a man, who (as Histories mention) took flesh, and was born of the <hi>Virgin Mary,</hi> and suffered death without the Gates of Jerusalem, about sixteen hundred years ago: Alas, how many <hi>Turks</hi> and <hi>Jews</hi> are there that know and believe all this; yet they do no more believe <hi>Jesus of Nazareth,</hi> to be the true Christ, and only Saviour, then a Teaching, Seducing <hi>Quaker</hi> doth: Nay, such a <hi>Quaker</hi> attributes no more soul saving <hi>Merit</hi> to the holy Bo<g ref="char:EOLhyphen"/>dy of Jesus Christ, then to the body of a <hi>Turk</hi> or a <hi>Jew:</hi> Therefore its not safe to put any other construction upon his acknowledgement a<g ref="char:EOLhyphen"/>bove, then a deceitful shifting the business in hand, that he might thereby the more easily hoodwink the Hearer; for his Discourse had no other tendency, then to make us believe, that the true Christ and Saviour was only in (not at all of) the body of Christs flesh.</p>
             <p n="2">2. I do again acknowledge with him, <hi>sc.</hi> That the effects of Christs death and sufferings, are to be inwardly witnessed, as received within us: And if so, then there must be a cause of these effects inwardly received; as previous and anticedent to them, <hi>to wit,</hi> The death and sufferings of the one Man Jesus Christ (as in the third <hi>Argument</hi>) which is therefore necessarily finished, and perfected already by the one crucified body of Jesus of <hi>Nazareth,</hi> upon the Cross (without us) for us; which in right reason must needs be, before the effects thereof could be revealed in us, and so inwardly witnessed; though this were the thing I argued for, yet it was strongly opposed by them all, (as may afterwards appear) making those effects within them, the true Christ, and their only Saviour.</p>
             <p>Now I proceed to the Texts of Scripture repeated by <hi>F.E.</hi> which shall be considered in order as he uttered them.</p>
@@ -362,7 +362,7 @@ a deceitful shifting of the matter in question: yet I am ready to grant, that <h
                   <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ohn,</hi>
-               <pb n="9" facs="tcp:000313_0013_0FA4A9E9A6FA8BD0"/>
+               <pb n="9" facs="unknown:000313_0013_0FA4A9E9A6FA8BD0"/>
 in saying of him as above, <hi>that be so witnessed;</hi> Namely, that the Light, (or inlighting) in every Man, as he comes into the World<g ref="char:punc">▪</g> is the true Christ, and Mans only Saviour: for, this <hi>Evangelist</hi> witnesseth other<g ref="char:EOLhyphen"/>wise, as (in ver. 30. 29.) he evidently affirms the Light (in <hi>ver.</hi>9.) to be the Man Jesus, and as such, he never was (nor can be) in any man<g ref="char:punc">▪</g> so witnesseth the <hi>Witness<g ref="char:punc">▪</g> bearer,</hi> whom we are to believe, before a <hi>Seducing Quaker.</hi>
             </p>
             <p n="2"> 2. Thou (<hi>F. E</hi>) didst in thy Discourse effectually affirm Christ to be the <hi>Light,</hi> and the <hi>Light</hi> in every Man to be the Christ, implying thereby, <hi>sc.</hi> what might be truly spoken of the one, might be also so spoken of the other: here hence then it must follow, that the <hi>Light</hi> within a <hi>Quaker,</hi> was born in <hi>Bethlehem,</hi> laid in a <hi>Manger,</hi> hanged upon a <hi>Tree,</hi> and gave up the <hi>Ghost;</hi> all these were truly and properly spoken of the true Christ (<hi>who is the Light of the World:</hi> Now, what can be more absurd and false, then to affirm these things of the <hi>Light,</hi> in every man that cometh into the World by natural Generation.</p>
@@ -399,7 +399,7 @@ in saying of him as above, <hi>that be so witnessed;</hi> Namely, that the Light
                   </gap>sus, whom <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="10" facs="tcp:000313_0014_0FA4A9EAB3BCB870"/>
+                  <pb n="10" facs="unknown:000313_0014_0FA4A9EAB3BCB870"/>
 Lord and Christ:</hi> consider I pray, did the <hi>
                   <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -423,7 +423,7 @@ Lord and Christ:</hi> consider I pray, did the <hi>
                   <hi>viz.</hi>
                </abbr> 
                <hi>That to Preach any other Gospel, is to be accursed;</hi> meaning to preach otherwise, then that the Godhead only in the flesh, (all mankind flesh) to be the true Christ, and only Sa<g ref="char:EOLhyphen"/>viour is to be accursed; these words were (being his third Text of
-<pb n="11" facs="tcp:000313_0015_0FA4A9EB779274A8"/>
+<pb n="11" facs="unknown:000313_0015_0FA4A9EB779274A8"/>
                <hi>Scripture</hi>) repeated by him; shall now be considered, whether wrested or no.</p>
             <p>
                <hi>Text</hi> 3<hi>d. Gal.</hi> 1. 8,9. <hi>If any Man Preach any other Gospel unto you, then that which we have Preached unto you, and ye have received, let him be accursed.</hi>
@@ -446,7 +446,7 @@ Lord and Christ:</hi> consider I pray, did the <hi>
             </p>
             <p>
                <hi>A</hi>nd accordingly the <hi>Apostle</hi> did bear open and abundant witness to that just one, (even <hi>Jesus of Nazareth</hi> to be the true Christ and our only Saviour) This great <hi>Truth</hi> is yet further evident, in the 13<hi>th. Chapter of the Acts, ver.</hi> 23. <q>Of this Mans (<hi>Davids</hi>) Send, hath God accord<g ref="char:EOLhyphen"/>ing
-<pb n="12" facs="tcp:000313_0016_0FA4A9EC57FEAB70"/>
+<pb n="12" facs="unknown:000313_0016_0FA4A9EC57FEAB70"/>
 to his promise raised unto <hi>Israel,</hi> a Saviour Jesus; him (ver. 27. They (<hi>sc.</hi> The Rulers in <hi>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -466,7 +466,7 @@ to his promise raised unto <hi>Israel,</hi> a Saviour Jesus; him (ver. 27. They 
                </gap>. And consequently thou <hi>F. E.</hi> hast wrested that (as other) Text of Scripture, which (without Repentance) will be to thy destruction, 2 <hi>Pet.</hi> 3. 16.</p>
             <p>The words of the <hi>fourth Scripture</hi> (which he repeated with more then ordinary state and confidence) comes next to be considered:</p>
             <p n="4">4<hi>th</hi> Text. Rom. 10. 6,7,8. But the righteousness which is of Faith, speaketh on this wise, say not in thy heart<g ref="char:punc">▪</g> who shall ascend into Hea<g ref="char:EOLhyphen"/>ven) that is to bring Christ down from above) or, who shall descend into the deep; that is to bring up Christ again from the dead: But what saith it, <hi>The Word is nigh thee, even in thy mouth, and in thy heart that
-<pb n="13" facs="tcp:000313_0017_0FA4A9ECA49E5BF0"/>
+<pb n="13" facs="unknown:000313_0017_0FA4A9ECA49E5BF0"/>
 i<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>, the word of Faith, which we Preach.</hi>
@@ -493,7 +493,7 @@ i<gap reason="illegible" resp="#AELD" extent="1 letter">
                   </gap>tion</hi> of Christ into Heaven or us: and the <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> also because we believe Christs <hi>Resurrection</hi> from the dead for us; whereby the Lord Christ
-<pb n="14" facs="tcp:000313_0018_0FA4A9ED66CC2100"/>
+<pb n="14" facs="unknown:000313_0018_0FA4A9ED66CC2100"/>
 demonstrated his victory over hell, death, <hi>&amp;c.</hi> in our room and names. It may hence be safely argued, that both <hi>Moses</hi> and <hi>Paul</hi> do conclude, that if any man seeks justification by the righteousness of the Law, (as most <hi>Quakers</hi> do) he must needs be in continual fear of Hell, and despair of Heaven: But be that (through <hi>Free grace</hi>) believeth that the Lord Christ is risen from the dead, ascended up into heaven for him, in his place and stead, is freed from both.</p>
             <p>The sum of all, is this: Namely, That Jesus Christ rose from the dead, for us, and ascended up into heaven for us: and before either. (which must be implied) lived and died for us: But, he that believes not the <hi>Descention,</hi> and the <hi>Ascention</hi> of the Lord Jesus Christ for him, but seek<g ref="char:EOLhyphen"/>eth <hi>Justification</hi> by the works of the Law; he doth (in effect) deny the <hi>Resurrection,</hi> and <hi>Ascention</hi> of Jesus Christ; which to do, were (as much as in him lies) to bring Christ down from above, and likewise to bring him up again from the deep. Now tell me <hi>Frances,</hi> whither these verses <hi>sc.</hi> the 6<hi>th.</hi> and 7<hi>th.</hi> so triumphingly repeated by thee, do not plainly prove, the true Christ, and our only Saviour to be in heaven above us: surely nothing can be more clearly proved, and consequently (by the <hi>Scriptures</hi> alledged by thee) <hi>A Quakers pretended Saviour within him, is not the true but the false Christ:</hi>
             </p>
@@ -516,7 +516,7 @@ demonstrated his victory over hell, death, <hi>&amp;c.</hi> in our room and name
             </p>
             <p>
                <hi>Sol.</hi> We are to understand, an Evangelical (not legal) word: for, it is a word of Faith, the same with the righteousness of Faith above defined,
-<pb n="15" facs="tcp:000313_0019_0FA4A9EEE4241B10"/>
+<pb n="15" facs="unknown:000313_0019_0FA4A9EEE4241B10"/>
 and which agrees with the <hi>Apostles</hi> Explication, <hi>ver.</hi> 8. That is (saith he) the Word of Faith which we Preach; now the <hi>Apostles</hi> Preached no other word of Faith, then the righteousness of Faith afore expressed, (and confirmed by the four <hi>Arguments</hi>) besides, there are other Scrip<g ref="char:EOLhyphen"/>tures of infallible truth, evidencing the same: as <hi>Rom.</hi> 1. <hi>ver.</hi> 1. <hi>Separate unto the Gospel of Christ,</hi> ver. 3. <hi>Concerning his Son Jesus Christ our Lord,</hi> ver. 4. <hi>Declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:</hi> Likewise in Chap 4. 25. <hi>Who was delivered,</hi> (i.e. to death) <hi>for our offences, and was raised up again for our Justification:</hi> And in 1 <hi>Cor.</hi> 15. 1. <hi>I declare unto you, the Gospel which I Preached unto you:</hi> What was that Gospel, the Apostle tells us? <hi>ver.</hi> 3. <hi>how that Christ died for our sins, according to the Scriptures.</hi> ver. 4. <hi>And that he was buried, and that he rose again the third day according to the Scri<g ref="char:EOLhyphen"/>ptures,</hi> the last mentioned Scriptures do illustrate the righteousness o<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> Faith, and word of Faith preached (in the abovesaid verses 6. 8.) and therefore cannot possibly be understood for a <hi>Quakers</hi> pretended Saviour within him (as this <hi>Disputant F. E.</hi> would make us believe.)</p>
@@ -536,7 +536,7 @@ and which agrees with the <hi>Apostles</hi> Explication, <hi>ver.</hi> 8. That i
                      <desc>〈◊〉</desc>
                   </gap>
                </hi> so, thou
-<pb n="16" facs="tcp:000313_0020_0FA4A9EEEA875440"/>
+<pb n="16" facs="unknown:000313_0020_0FA4A9EEEA875440"/>
                <hi>Light</hi> within, d<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>st justifie the vilest <hi>Antichrists,</hi> that are this day in the World; for where doth that <hi>Teaching Quaker</hi> dwell? what is his Name? who doth in his heart believe, and with his mouth confess that the righte<g ref="char:EOLhyphen"/>ousness whereby he is accepted of God, justified in his sight, and saved, is the righteousness alone of Jesus Christ of <hi>Nazareth,</hi> which he wrought out in his own and only personal obedience, and sufferings in the World, sixteen hundred years ago: or, that doth believe and confess, that God, (of his <hi>free Grace and Mercy</hi>) giveth Faith in this righteousness of Jesus Christ, which is by his Father imputed or reckoned to Believers for their justification before God: or, do believe and confess that in this reckoning or imputation there is a reality; undoubtedly, there's nothing more in<g ref="char:EOLhyphen"/>consistent (with the Faith and Confession) of <hi>Teaching Quakers,</hi> then these most evident Gospel Principles of infallible Truth; and therefore they are (as I may safely avouch) the greatest <hi>Antichrists</hi> (of this age) on Earth, and ordained to the greatest condemnation. <hi>Jude ver.</hi> 3,4. I do now proceed to consider his fifth Scripture, alledged, to prove <hi>a Qua<g ref="char:EOLhyphen"/>kers pretended Saviour within him, to be the true, not the false Christ.</hi>
@@ -566,7 +566,7 @@ and which agrees with the <hi>Apostles</hi> Explication, <hi>ver.</hi> 8. That i
             <p>Now, in what sense Christ was in <hi>Paul</hi> speaking, in that same sense was Christ in the <hi>Corinthians:</hi> But Christ spake in <hi>Paul</hi> only by the might (or power) of his Spirit, is mighty in you, <hi>sc.</hi> Christs speaking in <hi>Paul to the Corinthians,</hi> was [Mighty] (an effect of the Spirit) in them This mat<g ref="char:EOLhyphen"/>ter may appear somewhat clearer, <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> we consider the same Apostle to the <hi>Galatians,</hi> Gal. 2.8. <hi>For he</hi> (the Holy Ghost) <hi>that wrought effectually
-<pb n="17" facs="tcp:000313_0021_0FA4A9EFB60A55D8"/>
+<pb n="17" facs="unknown:000313_0021_0FA4A9EFB60A55D8"/>
 in Peter to the Apostleship of the Circumcision, the same was mighty in me to<g ref="char:EOLhyphen"/>wards the Gentiles:</hi> (such were the <hi>Corinthians</hi>) The phrases (of effe<g ref="char:EOLhyphen"/>ctual working in <hi>Peter,</hi> and was mighty in <hi>Paul</hi>) do only signifie the effe<g ref="char:EOLhyphen"/>ctual operation of Christs Spirit in both the <hi>Apostles:</hi> so that <hi>Paul</hi> affirm<g ref="char:EOLhyphen"/>ing, as in <hi>ver.</hi> 3 <hi>above,</hi> that Christ was mighty in the <hi>Corinthians:</hi> its as much as if he had said, Christ hath effectually wrought by his Spirit, the mighty work of Faith in you (<hi>Corinthians</hi>) by my Ministry; which the <hi>Apostles makes to be</hi> the proof of Christ speaking in him, which in the 5<hi>th. verse</hi> above, he refers (as it were) to their own experience: saying, <hi>Examine your selves, prove your own selves, whether ye be in the Faith</hi>) that is, believing in Christ, the object apprehended by Faith) <hi>Know ye not your ownselves, how that Jesus Christ is in you, except ye be Reprobates.</hi>
             </p>
             <p>Qu. <hi>How is that Jesus Christ in you?</hi>
@@ -585,7 +585,7 @@ in Peter to the Apostleship of the Circumcision, the same was mighty in me to<g 
             <p n="3">3. <hi>Christ Operation,</hi> Col. 2. 12 compared with <hi>Eph:</hi> 3. 17. <hi>Through the Faith of the operation of God: That</hi> Christ <hi>may dwell in your hearts by Faith:</hi> Forasmuch as Faith is the operation of God (in Christ) its therefore called Christ operative, in which sense only, Christ is said to be (in u<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>.) <hi>As</hi> the Sun is in the eye by its beams; so, Jesus Christ (as the author, or first efficient) is in us by the operated Graces of his Spirit; hence it necessarily follows, that Christ personal (the only Saviour) is
-<pb n="18" facs="tcp:000313_0022_0FA4A9F068B8ED40"/>
+<pb n="18" facs="unknown:000313_0022_0FA4A9F068B8ED40"/>
 not in us; nor Christ mystical (the Church) is in us: this is so plain, that there is no need of evidence, for, as Christ personal is the <hi>Head sa<g ref="char:EOLhyphen"/>ving,</hi> so Christ Mystical is the <hi>Body saved,</hi> Eph. 5. 23. therefore neither the one, nor the other can be said to be in us: Then,</p>
             <p n="3">3. Its Christ <hi>Operative</hi> only, that is in the Saints, tis true, that Christ personal in the first efficiency of gracious operations in the heart, which (in Scripture) are sometime called <hi>Christ in you:</hi> the <hi>cause</hi> being put for the <hi>effect,</hi> by a <hi>Meto<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -638,7 +638,7 @@ not in us; nor Christ mystical (the Church) is in us: this is so plain, that the
                   </gap> pressed under you, as a cart i<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> pressed,</hi> and in Gen. 6. ver. 6. <hi>It repented the Lord that he made
-<pb n="19" facs="tcp:000313_0023_0FA4A9F1A4958A20"/>
+<pb n="19" facs="unknown:000313_0023_0FA4A9F1A4958A20"/>
 Man on the earth, and it grieved him at the heart,</hi> and Gal. 3. 16. <hi>To Abra<g ref="char:EOLhyphen"/>ham and to his seed were the promises made, and to seeds as of many, but as of one, and to thy seed, which is Christ,</hi> (this say they) is to be understood of an Elect seed within) also in <hi>Heb.</hi> 6. <hi>ver.</hi> 6. <hi>Seeing they crucifie to them<g ref="char:EOLhyphen"/>selves the Son of God afresh.</hi>
             </p>
             <p>
@@ -657,7 +657,7 @@ Man on the earth, and it grieved him at the heart,</hi> and Gal. 3. 16. <hi>To A
                   <desc>•</desc>
                </gap>e) would have shewn it to him. Again,</p>
             <p>That your <hi>Light</hi> within, cannot be the promised Seed of the <hi>Woman (the bruised heel</hi>) for as such, the Seed is a Creature: but the <hi>Light with<g ref="char:EOLhyphen"/>in</hi> (which ye call the Elect seed) is according to the <hi>Teaching Quakers,</hi>
-               <pb n="20" facs="tcp:000313_0024_0FA4A9F2208A42E0"/>
+               <pb n="20" facs="unknown:000313_0024_0FA4A9F2208A42E0"/>
 the everlasting Gospel, and eternal word, as such it is increate, and <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> is God the <hi>Promiser,</hi> not the <hi>promised Seed.</hi>
@@ -680,7 +680,7 @@ the everlasting Gospel, and eternal word, as such it is increate, and <gap reaso
                <abbr>viz.</abbr> have not ye hereto<g ref="char:EOLhyphen"/>fore professed (as <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>n <hi>Act.</hi> 20 21.) <hi>repentance towards God, and Faith to<g ref="char:EOLhyphen"/>wards our Lord Jesus Christ:</hi> though this cannot be gainsaid with any truth: yet how apparent is it, that ye are wilfully gone back from this
-<pb n="21" facs="tcp:000313_0025_0FA4A9F376651450"/>
+<pb n="21" facs="unknown:000313_0025_0FA4A9F376651450"/>
                <hi>Faith</hi> and <hi>Repentance?</hi> Consider now I pray you, your declared <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> 
@@ -697,7 +697,7 @@ the everlasting Gospel, and eternal word, as such it is increate, and <gap reaso
             <p>
                <hi>Quest.</hi> Whether he (<hi>F. E.</hi>) did believe, that Jesus Christ of <hi>Nazareth,</hi> the Man approved of God among the People: and whom the <hi>Jews,</hi> flew, and God raised from the dead, and also received up into Heaven, were the true Christ, and his only Saviour?</p>
             <p>He forthwith <hi>Answered; That he did believe it:</hi> Capt. <hi>Bascomb</hi> then called to him saying <hi>Thou wilt deny it again tomorrow:</hi> and withal I like<g ref="char:EOLhyphen"/>wise told him, that by this his open confession of the true Faith, he had openly declared himself to be a <hi>Christian,</hi> and no <hi>Quaker:</hi> and I further<g ref="char:EOLhyphen"/>more
-<pb n="22" facs="tcp:000313_0026_0FA4A9F423621718"/>
+<pb n="22" facs="unknown:000313_0026_0FA4A9F423621718"/>
 said to him, that he had (by that Gospel confession of Faith) ma<g ref="char:EOLhyphen"/>nifestly contradicted what he had contended for in his present Discourse (called Disputation) and that he had also thereby confirmed the first part of the charge against them, namely, That <hi>a Quakers pretended Sa<g ref="char:EOLhyphen"/>viour within him, was not the true Christ, but the false Christ.</hi>
             </p>
             <p>And at the same time <hi>Nathaniel Bethel</hi> spake to him; saying, <hi>Francis,</hi> you were (not long since) of another Faith, or of another Opinion; for you told my Wife, <hi>That if she did believe in any other Christ, then in that Christ which was within her, she would be damned;</hi> But <hi>Francis</hi> (Jesuite<g ref="char:punc">▪</g> like) openly denied, that he had spoken any such Words to his Wife; thereupon <hi>Nathaniel Bethel</hi> replied to him (in the face of the Congrega<g ref="char:EOLhyphen"/>tion) <hi>that he would depose, what he had declared to be a truth.</hi>
@@ -721,7 +721,7 @@ said to him, that he had (by that Gospel confession of Faith) ma<g ref="char:EOL
                <hi>They</hi> (the <hi>Jews</hi>) <hi>were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming:</hi> For,</p>
             <p n="1">1 The <hi>manner</hi> of thy words (as above) plainly declare, that then were filled with envy.</p>
             <p n="2">
-               <pb n="23" facs="tcp:000313_0027_0FA4A9F646E7B340"/>
+               <pb n="23" facs="unknown:000313_0027_0FA4A9F646E7B340"/>
 2. The matter of her words, was the same with the thing spoken by <hi>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -742,7 +742,7 @@ said to him, that he had (by that Gospel confession of Faith) ma<g ref="char:EOL
             <p>
                <hi>Answ. Bold Man<g ref="char:punc">▪</g>
                </hi> who art thou, that teachest the <hi>Apostles</hi> of Jesus Christ, (yea the <hi>Holy Ghost</hi> himself) how to speak, who were the faith<g ref="char:EOLhyphen"/>ful
-<pb n="24" facs="tcp:000313_0028_0FA4A9F7C0593FA8"/>
+<pb n="24" facs="unknown:000313_0028_0FA4A9F7C0593FA8"/>
 Witnesses, that proved all which was said by me in those four <hi>Argu<g ref="char:EOLhyphen"/>ments;</hi> and that I might prevent (which I foresaw) such carpings, I barely repeated the <hi>Apostles</hi> express words, mentioning (in a manner) no more, then what is plainly asserted by them? what dost thou then, but (under colour of reflecting on me) reflect upon the holy <hi>Apostles</hi> them<g ref="char:EOLhyphen"/>selves? Alas, <hi>poor Man!</hi> had it not been more honesty in thee, to have thus charged the <hi>Apostles,</hi> then me; who wrested not, but only repeated the <hi>Apostles</hi> words, for the confirmation of the alledged Arguments; thou shouldest have clamoured against the <hi>Apostles,</hi> thus, there is not a word by them mentioned of Christ, <hi>as God,</hi> to be the Saviour; and wouldest thou not (hadst thou thus done) have been as bold, as blind <hi>Bayard:</hi> Its most evident, that the <hi>Apostles</hi> preached Christ, <hi>as Man</hi> [Not but that he was and is also God] to be believed in for the remission of sins, both to the <hi>Jews,</hi> and to the <hi>Gentiles:</hi> so that, thy quarrelsome reflecti<g ref="char:EOLhyphen"/>on on me, is (in effect) a manifest denying the Testimony of the <hi>Apo<g ref="char:EOLhyphen"/>stles,</hi> joyntly testifying of the Man Jesus Christ of <hi>Nazareth,</hi> to be the only <hi>Lamb of God, that takes away the <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> of the World,</hi> (reconciled-world, 2 <hi>Cor.</hi> 5. 19.) for, there is no other Man, Name, or Thing ever in Scripture, called <hi>the Lamb of God,</hi> which takes away sin; but the one Man Jesus Christ, and so it is Recorded by Christs witness bearer, <hi>Joh.</hi> 1. 29, 30.</p>
@@ -758,7 +758,7 @@ Witnesses, that proved all which was said by me in those four <hi>Argu<g ref="ch
                <hi>William Bullock</hi> was the next Disputant: to prove, <hi>That a Quakers pretended Saviour within him, is not the false but the true Christ.</hi>
             </p>
             <p>And thus he <hi>Argued:</hi> saying, That which may be known of God, is manifest in them, and then stopt: Therefore, I prayed him, to tell us, where those words repeated above were to be found? he readily told me, <hi>sc.</hi> in Rom. chap. 1. ver. 19. <hi>Because that which may be known of God, is manifest in them; for God hath shewed it unto them:</hi> this was the only Proof named by them: I further demanded of him, what he inferred
-<pb n="25" facs="tcp:000313_0029_0FA4A9F7E78779F0"/>
+<pb n="25" facs="unknown:000313_0029_0FA4A9F7E78779F0"/>
 from this <hi>Text</hi> of Scripture? but because he lookt as if he understood not, what was meant by that demand: I requested him to frame some Argument from the Text alledged by him, to prove the matter in hand; but all in vain (<hi>
                   <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
@@ -794,7 +794,7 @@ from this <hi>Text</hi> of Scripture? but because he lookt as if he understood n
                </gap>ame Chapter, <hi>ver.</hi> 53. foregoing, <hi>Then Jesus said unto them, verily verily, I say unto you, except ye eat the flesh of the Son of Man, and drink his blood, ye have no life</hi> (i.e. Spirit, <hi>ver.</hi> 63. <hi>ult.</hi>) <hi>in you;</hi> or wilt thou make Christ (who is the wisdome of God, 1 (<hi>Cor.</hi> 1. 30.) guilty of contradicti<g ref="char:EOLhyphen"/>on, and so a Lyar, to which he replied nothing, <hi>save that he had spoken Scripture;</hi> which necessarily engaged me to reconcile those Scriptures to the understanding of the hearers; which, I endeavoured thus<g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="26" facs="tcp:000313_0030_0FA4A9F8AAF71D70"/>
+               <pb n="26" facs="unknown:000313_0030_0FA4A9F8AAF71D70"/>
 Joh. 6. 63. <hi>It is the spirit that quickeneth</hi> (i.e. the soul of man, natural<g ref="char:EOLhyphen"/>ly dead in sins, <hi>Eph.</hi> 2. 1, <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>.) the words exclude all endowments, qualifi<g ref="char:EOLhyphen"/>cations, or excellencies in the natural man, from this soul quickening work; hereunto agrees the words of our Saviour, in the end of the 63<hi>d.</hi> verse above: <hi>The words that I spake <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -809,7 +809,7 @@ Joh. 6. 63. <hi>It is the spirit that quickeneth</hi> (i.e. the soul of man, nat
                      <desc>••</desc>
                   </gap>, but the Word preached did not profit them, not being mixed with Faith, in them that heard it:</hi> what the Gospel preached was; hath been before frequently declared, more especially from <hi>Act.</hi> 5. 30, 31. <hi>That the same Jesus whom the Jews slew, and hanged on a Tree</hi> (this was the body of Christs flesh) <hi>God raised up from the dead, and exalted to be a Prince, and a Saviour, to give repentance, and remission of sins.</hi> This was the Gospel word, that was preached, which profited not either <hi>Jews</hi> or <hi>Gentiles,</hi> that did not by the mouth of Faith, eat the flesh<g ref="char:punc">▪</g> and drink the blood of Jesus Christ, the only Saviour: Hence, I did infer; That the <hi>Quakers</hi> being such non eating, non drink<g ref="char:EOLhyphen"/>ing Unbelievers, Christs flesh profiteth them nothing (therefore fit to be insisted on by this <hi>Disputant.</hi>)</p>
             <p n="2">2. <hi>Christs flesh profiteth nothing;</hi> If it be taken in that sense, in which the <hi>Jews</hi> apprehended the eating of it; and that was, with their natural mouths, as it appears from <hi>ver.</hi> 52. <hi>They</hi> (the Jews) <hi>strove amongst
-<pb n="27" facs="tcp:000313_0031_0FA4A9FA0DC2DB90"/>
+<pb n="27" facs="unknown:000313_0031_0FA4A9FA0DC2DB90"/>
 themselves,</hi> saying, <hi>how can this man give us his flesh to eat?</hi> (for they knew of no eating, but as they did eat their bodily food) yea, Christs Disci<g ref="char:EOLhyphen"/>ples (such as for the present followed him) said, <hi>ver.</hi> 63. <hi>this is a hard saying, who can hear it:</hi> Hereupon Christ doth explain himself to them all, in these words [<hi>The flesh profiteth nothing,</hi> ver. 63. above] thereby gi<g ref="char:EOLhyphen"/>ving them to understand, that he meant not of eating his flesh with their natural mouthes, as they did eat their daily bread, for (as if Christ had said) should ye so eat some of my natural flesh, or so drink some of my blood, <hi>it would profit you nothing:</hi> the reason of it, is assigned by the A<g ref="char:EOLhyphen"/>postle <hi>Paul,</hi> because Christs flesh and blood, is <hi>New-Testament Blood,</hi> 1 Cor. 11. 25. in which all the promises of God are, 2 <hi>Cor.</hi> 1. 20 here hence, it is safely inferr'd, That the true <hi>Object</hi> of Faith, is, the New-Te<g ref="char:EOLhyphen"/>stament promises in Christ bodily; in which respect, Christs flesh is pro<g ref="char:EOLhyphen"/>fitable to all right Believers on him, for their Justification, Resurrection, and Glorification, as in <hi>ver.</hi> 54, <hi>Whose eateth</hi> (with a Soul-believing Mouth) <hi>my flesh, and drinketh my blood, hath eternal life, and I will raise him up at the last day:</hi> But if we separate the promises of God, from Christs flesh, or his flesh from the promises, then his flesh profiteth no more, then if it were eaten with a mans natural Mouth<g ref="char:punc">▪</g> which (accord<g ref="char:EOLhyphen"/>ing to our blessed Saviour) <hi>profiteth nothing,</hi> or would not profit the Soul at all:</p>
             <p>Upon the whole it was concluded, that <hi>W. Bullocks</hi> second (as his first) Scripture, fell short of the mark; that is of proving <hi>a Quakers pretended Saviour within him, to be the true, not the false Christ.</hi>
             </p>
@@ -819,7 +819,7 @@ themselves,</hi> saying, <hi>how can this man give us his flesh to eat?</hi> (fo
             </p>
             <p>
                <hi>I Answered,</hi> Though Christ could not save us, unless he were God, as well as Man: yet the Godhead of the Son (only as such) doth not save us from the curse of the Law, because the Godhead alone could not ful<g ref="char:EOLhyphen"/>fill that righteousness (active and passive) which the Law required; 'tis true, we read of the righteousness of God. 2 <hi>Cor.</hi> 5 21. yet, it is not to be understood for the essential righteousness of God, but for a righteous<g ref="char:EOLhyphen"/>ness answerable unto the Law performed by the manhood of Christ, to which the Godhead gave both efficacy and excellency, <hi>Heb.</hi> 9. 14. and thereby the righteousness answerable to the holiness and justice of the Law, performed by the Man hood (soul and body) of Jesus Christ, was made Meritorious and Satisfactory for sin; as the Apostle signifies, <hi>Heb.</hi> 9. 14. <hi>How much more shall the blood</hi> (i.e. Sufferings <hi>of Christ, who</hi> (or which suffering Christ) <hi>through the eternal Spirit</hi> (i. e. Godhead of the Son) <hi>offered himself</hi> (<hi>sc.</hi> a Sacrifice) <hi>without spot to God</hi> (the Father)
-<pb n="28" facs="tcp:000313_0032_0FA4A9FA377D5E38"/>
+<pb n="28" facs="unknown:000313_0032_0FA4A9FA377D5E38"/>
 hence I did affirm, that Jesus Christ (as ma<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>) is our only <hi>Material Savi<g ref="char:EOLhyphen"/>our;</hi> and so good old <hi>Simion</hi> (if he may be believed <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -861,7 +861,7 @@ hence I did affirm, that Jesus Christ (as ma<gap reason="illegible" resp="#AELD"
                   <desc>〈…〉</desc>
                </gap> 
                <hi>Questions</hi> were (by the judicious hearers) plainly discerned, to lay aside the ma<g ref="char:EOLhyphen"/>terial Saviour; and to insinuate a Spirit, and its operations (still the <hi>Idol-light</hi>)
-<pb n="29" facs="tcp:000313_0033_0FA4A9FAE96A7290"/>
+<pb n="29" facs="unknown:000313_0033_0FA4A9FAE96A7290"/>
 within, to be the true Christ and only Saviour; thereupon, I denied the Spirits operations in us, to be the previous, procuring cause or ground of redemption, justification, and salvation with God; and that it is one thing to affirm that we cannot be saved without the efficacies of the spirit in us, as evidential, and another thing to be saved for, or by these operations in us, as causal; to which she made no return:</p>
             <p>Let me here add, what her last Question hath since brought to my re<g ref="char:EOLhyphen"/>membrance; namely, somewhat (touching this Question) the men of <hi>Rome,</hi> have commonly expressed: the Apostle (say they) excludes from justification, works which we our selves do meaning, <hi>Tit.</hi> 3. 5. <hi>Not by works of righteousness that we have done,</hi> &amp; Rom 11. <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -877,7 +877,7 @@ within, to be the true Christ and only Saviour; thereupon, I denied the Spirits 
                </abbr> that the Graces, effects and ope<g ref="char:EOLhyphen"/>rations of the spirit within them, maketh the true Christ, and their only Saviour from sins: Alas, poor deluded ones, this is to testifie, that the effects of Christs death sufferings, redemption<g ref="char:punc">▪</g> and righteousness do constitute the true Christ, and Mans only Saviour: which effects and ope<g ref="char:EOLhyphen"/>rations (say ye) being followed in all righteousness, will bring you to Salvation: now, what is all this? but in plain English, to be brought to salvation, by the obedience of works: Oh let every g<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>od Christian tremble to think of the dreadful consequence of this your God provo<g ref="char:EOLhyphen"/>king Doctrine; for, it is a manifest renouncing of the righteousness and obedience of the Son of God<g ref="char:punc">▪</g> Jesus Christ of <hi>Nazareth</hi> whom God the Father hath exalted to be the only Saviour to give remission of sins and
-<pb n="30" facs="tcp:000313_0034_0FA4A9FC0A861780"/>
+<pb n="30" facs="unknown:000313_0034_0FA4A9FC0A861780"/>
 salvation to all, that rightly believe on him, as is aboundantly fore<g ref="char:EOLhyphen"/>
                <gap reason="illegible" resp="#AELD" extent="4 letters">
                   <desc>••••</desc>
@@ -917,7 +917,7 @@ salvation to all, that rightly believe on him, as is aboundantly fore<g ref="cha
                   </gap> before Swine, lest they trample them under their feet, and turn again and rent you.</hi> Though <hi>turn again,</hi> and <hi>rent you,</hi> be in the last clause of the verse, yet it is to be referred to the <hi>Dogs,</hi> not to he <hi>Swine:</hi> for as <hi>Swine</hi> do trample under their fee<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>, so <hi>Dogs</hi> do fly upon a man, rent<g ref="char:EOLhyphen"/>ing and tearing him down: This instance plainly shews that the transpo<g ref="char:EOLhyphen"/>sition in 1 <hi>Cor.</hi> 6. 11. above, doth not hinder the joyning of sanctification to the Spirit, nor justification to the Name of the Lord Jesus alone it
-<pb n="31" facs="tcp:000313_0035_0FA4A9FC94552788"/>
+<pb n="31" facs="unknown:000313_0035_0FA4A9FC94552788"/>
 being according to the tenour of the whole <hi>New-Testament<g ref="char:punc">▪</g>
                </hi>
             </p>
@@ -957,7 +957,7 @@ being according to the tenour of the whole <hi>New-Testament<g ref="char:punc">�
                   <desc>〈◊〉</desc>
                </gap>.</p>
             <p>Note, that this truth, doth fully answer the <hi>Quakers</hi> cavil, about this
-<pb n="32" facs="tcp:000313_0036_0FA4A9FD360763F0"/>
+<pb n="32" facs="unknown:000313_0036_0FA4A9FD360763F0"/>
 matter: <hi>how i<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> sin</hi> (say they) <hi>finished without a Man, while no good is wrought within him:</hi> and seeing (as they further say) <hi>Christ works all things in us by his Spirit, how then can all things be fin<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -975,7 +975,7 @@ matter: <hi>how i<gap reason="illegible" resp="#AELD" extent="1 letter">
                <hi>William Bullock</hi> again: And he tells us, <hi>the Law of the spirit of life in Christ Jesus, hath made us free from sin.</hi>
             </p>
             <p>
-               <pb n="33" facs="tcp:000313_0037_0FA4A9FE1C389430"/>
+               <pb n="33" facs="unknown:000313_0037_0FA4A9FE1C389430"/>
                <hi>Answ.</hi> 1. I prayed him to tell me, where I might find those words <gap reason="illegible" resp="#AELD" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> by him; he had <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1051,7 +1051,7 @@ matter: <hi>how i<gap reason="illegible" resp="#AELD" extent="1 letter">
                </gap>th hurt us: now tell me <hi>William,</hi> whether <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> be ought in this third Text of Scripture alledged by thee, that doth in
-<pb n="34" facs="tcp:000313_0038_0FA4A9FEE252CDE0"/>
+<pb n="34" facs="unknown:000313_0038_0FA4A9FEE252CDE0"/>
 the least (though never so much strained) prove this first part of the charge against you, to be false; for the mind of the Apostle therein i<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap> plain and evident, <abbr>
@@ -1071,7 +1071,7 @@ the least (though never so much strained) prove this first part of the charge ag
                </gap>.) Now <hi>Francis</hi> if thou dost mean, either of these Scriptures, thou wilt be still at a loss; for it was the man Jesus Christ, which spake to his Disciples and it is very strange, that thou wilt produce a Christ for evidence, in whom you do not believe: its a sign, <hi>that thou art almost spent;</hi> I do not remember that he made any reply to ought said by me, as above: but as a mark for their nakedness he urged another Scripture (not naming where, as to the chapter or verse) <hi>to wit</hi> Christ saith of himself, <hi>I am Alpha and Omega:</hi>
             </p>
             <p>Rev. 1. 1. <hi>I am Alpha and Omega, the beginning and the ending saith the Lord, which is, and which was, and which is to come.</hi> The Almighty, af<g ref="char:EOLhyphen"/>ter the reciting of this Scripture, I expected an Argument to be drawn from thence by the <hi>Disputant,</hi> to prove the thing for which he brought it; But it seems <hi>Franks Seducers</hi> could never make him capable of formal
-<pb n="35" facs="tcp:000313_0039_0FA4A9FF74102BB8"/>
+<pb n="35" facs="unknown:000313_0039_0FA4A9FF74102BB8"/>
 Argumentations, which defect, constrained me to insist upon the explica<g ref="char:EOLhyphen"/>tion (herein more fully and distinctly enlarged) of those <hi>Texts</hi> of Scrip<g ref="char:EOLhyphen"/>ture, which (for the most part) were only repeated by the <hi>titular Dispu<g ref="char:EOLhyphen"/>tants,</hi> and that many times after their own most presumptuous mode and manner, adding or diminishing contrary to Gods command, <hi>Deut.</hi> 4. 2. But I proceed to the <hi>Text</hi> it self:</p>
             <p>
                <hi>Ans.</hi> The place of Scripture above, <hi>sc. Rev.</hi> 1. 8. consists of three parts. <hi>First part, I am Alpha and Omega,</hi> in these words Christs crea<g ref="char:EOLhyphen"/>ting power is Metaphorically expressed, being the first and last letters in the <hi>Greek Alphabet;</hi> which (by a figurative speech) are applied to any beginning and end; and are here interpreted, by the next words, name<g ref="char:EOLhyphen"/>ly, the <hi>Beginning</hi> and the <hi>Ending:</hi> which Phrases, do signifie unto us Christs divine Nature, eternal Power, and Godhead, as in <hi>Joh.</hi> 1. ver. 1. <hi>In the beginning was the Word, and the Word was God,</hi> (sc. God the Son) and in <hi>Col.</hi> 1. 16. <hi>All things were created by him</hi> (his dear Son, <hi>ver.</hi> 13.) <hi>and for him</hi> (sc. for his glory, as the ultimate end, <hi>Rom.</hi> 11. 36.) this therefore is the meaning of [<hi>I am Alpha and Omega</hi>] that is, Christ is the efficient cause of all things, and the end also, whither all things are referred: that he hath at first created all things, and that for his own glory alone.</p>
@@ -1080,7 +1080,7 @@ Argumentations, which defect, constrained me to insist upon the explica<g ref="c
                      <desc>•</desc>
                   </gap>n your Lord and Master, have washed your feet:</hi> Also, after his resurrection, <hi>Luk.</hi> 24. 3 4. saying, <hi>The Lord hath risen indeed, and hath oppeared to Simon,</hi> ver 39. <hi>Behold my hands and my feet, that it is I my self,</hi> (meaning, your Lord and Master) and likewise after his ascention, <hi>Act.</hi> 22. 8. <hi>And I answered, who art thou Lord?</hi> and he said unto me, <hi>I am Jesus of Naza<g ref="char:EOLhyphen"/>reth, whom thou persecutest:</hi> to these many more might be added, to evi<g ref="char:EOLhyphen"/>dence that by [<hi>Lord</hi>] in the Text above, the man-hood of Christs per<g ref="char:EOLhyphen"/>son is to be understood, at least not to be excluded: For in <hi>ver.</hi> 11. Christ saith, <hi>I am Alpha and Omega, the first, and the last,</hi> here <hi>Alpha</hi> and <hi>Omega,</hi> are explained by the terms [<hi>Of the first and the last</hi>] that is to say, the Lord Christ is the first, <hi>to wit</hi> subsisting in the beginning with God, and equal with the Father: and the last, having taken the form of a Servant, i.e. <hi>of the meanest man,</hi> and so last in reputation, <hi>Phil.</hi> 2. 6, 7.</p>
             <p>
-               <pb n="36" facs="tcp:000313_0040_0FA4AA002DD2CA08"/>
+               <pb n="36" facs="unknown:000313_0040_0FA4AA002DD2CA08"/>
 Third part; <hi>Which is, and which was and which <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> to come, the Almigh<g ref="char:EOLhyphen"/>ty:</hi> by the distribution of the threefold time, is meant (as <hi>Aretas,</hi> and <hi>Bright man</hi> on the 4<hi>th.</hi> verse) the trinity of person<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1107,7 +1107,7 @@ Third part; <hi>Which is, and which was and which <gap reason="illegible" resp="
                   <desc>•</desc>
                </gap>, that the true Christ had stopt his mouth.</p>
             <p>Let me here add some other Scriptures, for some further warrant, as <hi>Joh.</hi> 3. 18 <hi>He that believeth not</hi> (sc. on the Son of God, sent into the World, <hi>ver.</hi> 17.) <hi>is condemned already,</hi> that is, he is as sure to be damned, as if he was actually in Hell: and in <hi>ver.</hi> 36. <hi>He that believeth not on the Son</hi> (<hi>sc.</hi> born of <hi>Mary,</hi> Luk. 1. 35) <hi>shall not see life, but the wrath of God abideth on him:</hi> likewise in <hi>Luk.</hi> 19. 14. <hi>And his Citizens hated him,</hi> (<hi>sc,</hi> the Son of Man, the Saviour, <hi>ver.</hi> 10) <hi>and sent a message after him,</hi> saying, <hi>we will not have this Man to reign over us:</hi> let it be here well Noted, that
-<pb n="37" facs="tcp:000313_0041_0FA4AA00EE8393D8"/>
+<pb n="37" facs="unknown:000313_0041_0FA4AA00EE8393D8"/>
 the true Christ calls those Citizens his <hi>Enemies,</hi> and such Enemies as he would destroy, <hi>ver.</hi> 27. <hi>But those mine Enemies, which would not that I</hi> (the Son of Man, <hi>ver.</hi> 10. above) <hi>should reign over them, bring hither, and slay them before me:</hi> in <hi>Mark</hi> also, <hi>Chap.</hi> 16. <hi>ver.</hi> 16. <hi>He that believeth not</hi> (sc. on Jesus risen from the dead, <hi>ver.</hi> 9.) <hi>shall be damned.</hi>
             </p>
             <p>Now <hi>Frank,</hi> didst not thou speak under the <hi>Power of Satan,</hi> when thou didst so openly and confidently affirm, that I had no warrant to speak as I did, when I spake to thy fellow-Labourer in the work of the false Christ?</p>
@@ -1128,7 +1128,7 @@ the true Christ calls those Citizens his <hi>Enemies,</hi> and such Enemies as h
                   </gap> be made manifest.</hi>
             </p>
             <p n="1">1. B<hi>y Light</hi> (in these verses) Christ understands the <hi>Doctrinal light</hi> (contained in the written Scripture of the <hi>New-Testament</hi>) which was
-<pb n="38" facs="tcp:000313_0042_0FA4AA01A9C13D50"/>
+<pb n="38" facs="unknown:000313_0042_0FA4AA01A9C13D50"/>
 preached by him, and his Apostles: hence it is, that the Lord Christ, <hi>Joh.</hi> 8. 12. and his Apostles, <hi>Mat.</hi> 5. 14. are called the <hi>light of the World.</hi>
             </p>
             <p n="2">2. That this Light, doth <hi>reprove,</hi> ver. 20. <hi>and manifest,</hi> ver. 21. well then <hi>William,</hi> thy demand is granted thee; namely, that the true and real meaning of the Text (intended by thee) is this: <hi>to wit, That the light of Scripture, doth make reproved evils manifest,</hi> or <hi>evils manifest, which are to be reproved:</hi> this being the true and real meaning, how doth it prove the thing designed? <hi>sc. That the light within thee, is the true, not the false Christ:</hi> I hope, then art not such a <hi>Bullock,</hi> as to think i<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1152,7 +1152,7 @@ preached by him, and his Apostles: hence it is, that the Lord Christ, <hi>Joh.</
                </hi> (a converted <hi>Quaker</hi>) doth asseat in his Epistle to <hi>John Crook,</hi> a <hi>Teaching Quaker,</hi> Being (<hi>saith he</hi>) lately in discourse with some <hi>Quakers,</hi> who held, th<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>
-               <pb n="39" facs="tcp:000313_0043_0FA4AA0296210A00"/>
+               <pb n="39" facs="unknown:000313_0043_0FA4AA0296210A00"/>
                <q>it was the Light within, that was crucified without the Gates of <hi>Jerusa<g ref="char:EOLhyphen"/>lem:</hi> And in the same Epistle, he further saith, I can never forget <hi>James Nayler,</hi> whom I saw suffer, and what was the fruit of that Spirit by which he was acted, was he not strangely lifted up in Pride, to make himself the <hi>Messiah,</hi> and take divine Worship to himself: For (saith he) <hi>John Bolton</hi> told me, that he stood by and saw three Women, one after another, fall down and worship him, and one of them in her bow<g ref="char:EOLhyphen"/>ings, had these words: <hi>to wit,</hi> Thy Name is no more <hi>James,</hi> but <hi>I Am:</hi> And <hi>James Nayler</hi> told <hi>John Bolton,</hi> that if he worshipped his body, he should refuse it; but if that within him he would accept it:</q> Hereunto agrees <hi>William Harriots</hi> Doctrine (at the time of the Disputation) <hi>we a<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -1172,7 +1172,7 @@ preached by him, and his Apostles: hence it is, that the Lord Christ, <hi>Joh.</
             </p>
             <p>
                <hi>Answ.</hi> It is to confess, that <hi>Paul</hi> is come true man, consisting of Soul
-<pb n="40" facs="tcp:000313_0044_0FA4AA0333F836E8"/>
+<pb n="40" facs="unknown:000313_0044_0FA4AA0333F836E8"/>
 and body (as above, <hi>ver.</hi> 25.) And consequently, not to confess that <hi>Paul</hi> is come true man, is to deny him come in the flesh<g ref="char:punc">▪</g>
             </p>
             <p>But, to say that <hi>Paul</hi> is come in the <hi>flesh;</hi> doth signifie <hi>sc. Paul</hi> is to <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1206,7 +1206,7 @@ and body (as above, <hi>ver.</hi> 25.) And consequently, not to confess that <hi
                   <desc>〈◊〉</desc>
                </gap> delivered to the Saints.</p>
             <p n="2">2. As such, they are Contradicters and Blasphemers of the Truth, which the holy men of God spake, as they were moved by the Holy
-<pb n="41" facs="tcp:000313_0045_0FA4AA05C4E1C568"/>
+<pb n="41" facs="unknown:000313_0045_0FA4AA05C4E1C568"/>
 Ghost, 2 <hi>Pet.</hi> 1. 21. For instance, <hi>Joh.</hi> 1. 14. <hi>And the Word,</hi> (God, <hi>ver.</hi> 1.) <hi>was made flesh</hi> [Flesh] <hi>i.e.</hi> true man: for <hi>he dwelt among us,</hi> (the Jews) <hi>and we beheld the Glory of him,</hi> (this dweller among us) concerning whom, the Witness bearer (sent of God, <hi>ver.</hi> 6) <hi>have Record,</hi> that he was a true man, <hi>ver</hi> 30. thereby witnessing, That Jesus Christ was true Man, as well as true God, and both in his one person: which Article of our Christi<g ref="char:EOLhyphen"/>an Faith, is denied by most Teaching <hi>Quakers.</hi> Another Instance we have <hi>Tim</hi> 3. 16 <hi>God was manifest in the flesh,</hi> i e. Mankind flesh, or true and whole Man; for so the Phrase (in the Flesh) <hi>cannotates,</hi> as it hath been already cleared from the Scriptures of God: so that, [<hi>God was ma<g ref="char:EOLhyphen"/>nifest in the flesh</hi>] doth not teach us, that God is to be considered as distinct from <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>he flesh; but that God was manifest flesh, real man-kind <hi>flesh,</hi> and thereby the Godhead and the Manhood were united in the one person of Christ, and made manifest to the Apostles bodily senses, of see<g ref="char:EOLhyphen"/>ing, hearing, and feeling, 1 <hi>Joh,</hi> chap. 1. ver. 1, 2.</p>
@@ -1220,7 +1220,7 @@ Ghost, 2 <hi>Pet.</hi> 1. 21. For instance, <hi>Joh.</hi> 1. 14. <hi>And the Wor
             </p>
             <p>
                <hi>Answ.</hi> These terms of (<hi>thou, thee</hi> and <hi>you</hi>) are not alwayes in Scrip<g ref="char:EOLhyphen"/>ture of distinct significations: as it appears, <hi>Lev.</hi> 19. 12. <hi>Ye</hi> (or you) <hi>shall not Swear by my Name falsly, neither shalt thou prophane the Name of thy God:</hi> In this Scripture, <hi>Ye</hi> (or <hi>You</hi>) and <hi>Thou,</hi> are of the same signi<g ref="char:EOLhyphen"/>fication:
-<pb n="42" facs="tcp:000313_0046_0FA4AA08D8C5A4F0"/>
+<pb n="42" facs="unknown:000313_0046_0FA4AA08D8C5A4F0"/>
 and in <hi>Jer.</hi> 3. 12. Return <hi>then,</hi> backsliding <hi>Israel,</hi> and I will not cause my anger to fall upon <hi>you:</hi> here likewise, <hi>thou</hi> and <hi>you,</hi> are of the same signification: again, in <hi>Luk.</hi> 17. 21. <hi>the Kingdome of God is within you; you,</hi> here doth (in your sense) signifie each particular <hi>Quaker.</hi>
             </p>
             <p n="2">2. Nor are these words (<hi>see thee</hi> and <hi>you</hi>) alwayes in Scripture of distinct significations, as in <hi>Deut.</hi> 28. 9. herein, <hi>thee,</hi> (a singular) and <hi>ho<g ref="char:EOLhyphen"/>ly People</hi> (a plural) are of the same signification, so in <hi>Isai.</hi> 26. 20. here <hi>People</hi> and <hi>thou</hi> are of the same import: To these Scriptures (would it not render me tedious to the Reader) I might add many more, to gain<g ref="char:EOLhyphen"/>say this their trifling Assertion: for <hi>you</hi> and <hi>thou</hi> are oft in Scripture and reason convertitable terms, for instance, <hi>thou</hi> in the Decalogue is indefi<g ref="char:EOLhyphen"/>nitely understood.</p>
@@ -1235,7 +1235,7 @@ and in <hi>Jer.</hi> 3. 12. Return <hi>then,</hi> backsliding <hi>Israel,</hi> a
             <p>
                <hi>Answ.</hi> This is granted; howbeit I pray, can any of you <hi>Quakers</hi> produce me one holy Man (in Scripture expressed) which used these words (<hi>thou</hi> and <hi>thee</hi>) that he might thereby take occasion to deny (as ye wickedly do) all reverential respects to any sort of men of what rank or quality soever: sure I am, ye cannot produce me one such man<g ref="char:punc">▪</g> for this bruitish kind of practice, is contrary to the manifold <hi>Precepts</hi> and <hi>Presidents</hi> also, in the Scriptures of truth, as afterwards shall plainly ap<g ref="char:EOLhyphen"/>pear. Indeed, we Christians do acknowledge, that holy men (in Scrip<g ref="char:EOLhyphen"/>ture) did use the words (<hi>thou</hi> and <hi>thee</hi>) not only one to another, but to God himself, for two eminent Reasons:</p>
             <p n="1">1. That they might thereby be kept to the unity of the Godhead; for
-<pb n="43" facs="tcp:000313_0047_0FA4AA0B5843D290"/>
+<pb n="43" facs="unknown:000313_0047_0FA4AA0B5843D290"/>
 although Jehovah is Father, Son, and Holy Ghost, yet he is not three Gods, but one, therefore holy men holding their minds to the unity of the essence; <hi>Thou</hi> and <hi>Thee,</hi> were (and are) most proper and necessary to preserve their minds from a plurality of Gods: But this ground can<g ref="char:EOLhyphen"/>not be pleaded by a <hi>Quaker,</hi> who denieth a Trinity in Unity, and so, he denies the only true God.</p>
             <p n="2">2. <hi>Reas.</hi> Holy men used these words (<hi>thou</hi> and <hi>thee</hi>) to God, and one to another, as occasionally they were by <hi>Holy Spirit,</hi> drawn out to either of these words (<hi>sc. thou</hi> or <hi>thee</hi>) for <hi>all Scripture is given by inspiration of God,</hi> 2 Tim. 3. 16. and in 2 <hi>Pet.</hi> 1. 21. <hi>Holy men of God spake as they were moved by the Holy Ghost;</hi> so then, its plain that Holy men (in Scripture) spake these words (<hi>thou</hi> and <hi>thee</hi>)to God, and one to another; but it was then, when they were moved thereunto by the Holy Ghost: but I pray, do ye <hi>Quakers</hi> never use those words (<hi>thou</hi> and <hi>thee</hi>) but then when ye are occasionally drawn out, or moved by the Holy Ghost to ei<g ref="char:EOLhyphen"/>ther: if any of you, should be so notoriously vile, as to father the use of those words (<hi>thou</hi> and <hi>thee</hi>) upon the Spirit, would not the Holy Ghost tell thee, that thou art of thy Father <hi>the Devil, who is a lyar from the be<g ref="char:EOLhyphen"/>ginning.</hi>
             </p>
@@ -1246,7 +1246,7 @@ although Jehovah is Father, Son, and Holy Ghost, yet he is not three Gods, but o
                   </gap>m.</hi> 20. 41. <hi>rose out of his place, and fell on his face to the ground, and bowed himself three times to Jona<g ref="char:EOLhyphen"/>than:</hi> Again, in the 1 <hi>Sam.</hi> 25. 23, 25. <hi>Abigail saw David, and fell be<g ref="char:EOLhyphen"/>fore him, on her face, and bowed her self to the ground, and called him Lord,</hi> Likewise Ruth, Chap. 2. 10. <hi>She fell on her face, and bowed her self to the ground to Boaz:</hi> And in ver 4. <hi>Boaz courteously said to the Reapers, the Lord be with you; and they</hi> (in reverential respects) <hi>to him.</hi> Answered, <hi>the Lord bless thee.</hi> Furthermore, we read of reverential respects, between <hi>Abraham,</hi> and his Idolatrous Neighbours, <hi>Gen.</hi> 23. 7. <hi>Abraham stood up, and bowed himself to the People of the Land, even to the children of H<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>th,</hi> and ver. 8. <hi>he communed with them saying, if it be your mind:</hi> And ver. 5. <hi>the children of Heth answered Abraham,</hi> saying, <hi>hear us my Lord: thou art a Prince of God amongst us.</hi> And <hi>Solomon</hi> also. 1 King. 2. 19. arose from his Throne, and bowed himself to his Mother; and <hi>Joseph,</hi> Gen. 28. 12. bowed himself to his Father <hi>Jacob,</hi> with his face towards the ground<g ref="char:punc">▪</g> And in the 2 <hi>Pet.</hi> 3. 6. <hi>Sarah</hi> obeyed <hi>Abraham,</hi> and called him Lord:
-<pb n="44" facs="tcp:000313_0048_0FA4AA0B67B67548"/>
+<pb n="44" facs="unknown:000313_0048_0FA4AA0B67B67548"/>
 unto these <hi>Presidents,</hi> many more might be alledged. Thus we see, though these holy persons often used (<hi>thou</hi> and <hi>thee</hi>) yet they ever used reverential respects to all sorts of men, and that according to Gods ex<g ref="char:EOLhyphen"/>press command, as <hi>Lev</hi> 9. 32. <hi>Thou shalt rise up before the <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> head, and honour the face of the old man and fear thy God, I am the Lord.</hi> Thus <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> by Gods own inspiration: but his <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1259,7 +1259,7 @@ unto these <hi>Presidents,</hi> many more might be alledged. Thus we see, though
             <p>
                <hi>Secondly,</hi> As the light of Scripture hath manifested this your second evil also; even so likewise the Light of Scripture doth reprove it.</p>
             <p n="1">1. It reproves you, a, such who want the fear of God, as above, <hi>Lev.</hi> 19. 32. and as such, who harden their hearts against, not only the many <hi>Precepts</hi> above, to bind the Conscience, but the many <hi>Presidents</hi> to evi<g ref="char:EOLhyphen"/>dence the practice; Now, as both are manifest, reprovers of you, so I wish they might make you not only ashamed of your sneaking surley, dumb, and scurvy carriage towards Christians: but also convince you, that this kind of Behaviour, is not in the written Scripture without, but from the pretended unwritten Scripture (that <hi>Idol-light</hi>) within: proudly contemning the sacred Oracles of God, above asserted. And
-<pb n="45" facs="tcp:000313_0049_0FA4AA0C69022F28"/>
+<pb n="45" facs="unknown:000313_0049_0FA4AA0C69022F28"/>
 which is thus further argued: what can the Saints (in all places and Countries) be more sensible of, then that the generality of <hi>Quakers,</hi> do purposely use those words (<hi>thou</hi> and <hi>thee</hi>) to deny all reverential re<g ref="char:EOLhyphen"/>spects to any sort of men, of what rank and quality soever: that by that means, they may intrude themselves to be equal with any of what rank or sort soever: nay, thereby to advance themselves, above all men, under the notion of a seeming perfection, which is a manifest product of their (God and Man) provoking pride: according to that of the Psal<g ref="char:EOLhyphen"/>mist, <hi>Psal.</hi> 123. 4. <hi>Our soul is exceedingly filled with the scorning, and con<g ref="char:EOLhyphen"/>tempt of the proud:</hi> and how is the Prophesie fulfilled in you, <hi>Isai.</hi> 3. 5. <hi>The child shall behave himself proudly against the antient, and the base against the Honourable:</hi> and observe ye well the words of the Lord Christ, <hi>Mark</hi> 7. 23. <hi>Deceit, Blasphemy, Pride, Foolishness:</hi> of these four links, hath Sa<g ref="char:EOLhyphen"/>tan made your Chain of darkness; which is most evident, from a due consideration of the foregoing truths: Oh, how suitable is the Prophets Vision to a <hi>Quakers</hi> condition, <hi>Obad.</hi> 1. <hi>ver.</hi> 1, 2. <hi>Behold, I have made thee small, then art greatly despised, the pride of thy heart hath deceived thee,</hi> &amp;c. From the whole be ye advised.</p>
             <p n="1">1. To cease from making your Idolized <hi>Thou</hi> and <hi>Thee,</hi> (the spring of your seurvy and surly deportment) with their mask, <hi>to wit,</hi> that holy men (in Scripture recorded) did oft use (<hi>thou</hi> and <hi>thee</hi>) one to another, and to God himself: Now, what is your design herein? can it be ought else, then to put a cheat on the judgements of some ignorant creatures: as thus, Oh surely (say they) the <hi>Quakers</hi> do make Conscience of the Scripture for their warrant and authority; thus poor ignorant ones are deluded by your equivocations: though its most certain, that the Scrip<g ref="char:EOLhyphen"/>ture no there commands a <hi>Quaker</hi> to (<hi>thou</hi> or <hi>thee</hi>) any man, much less Christian Rulers, Governours and Magistrates, (yet these things the un<g ref="char:EOLhyphen"/>mannerly <hi>Quakers</hi> will do) But the Scripture doth command all men to pray for Rulers, Governours and Magistrates, to submit unto them, and to give the honour which is due to them, as Fathers of the Country, (1 <hi>Tim.</hi> 2. 1, 2. 1 <hi>Pet.</hi> 2. 23. <hi>Isai.</hi> 49. 23) (yet these things they will not do) so that in a word of truth, the professed perfection of a seemingly sanctified <hi>Quaker,</hi> is a conscience of obeying his proud lusts, and disobey<g ref="char:EOLhyphen"/>ing Gods inspired Laws.</p>
             <p n="2">2. Cease from calling the reverential Presid<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1270,7 +1270,7 @@ which is thus further argued: what can the Saints (in all places and Countries) 
                   <desc>•</desc>
                </gap>as<g ref="char:EOLhyphen"/>pheme.</p>
             <p n="3">3. Cease from wresting the Holy Scriptures: especially that of Christ
-<pb n="46" facs="tcp:000313_0050_0FA4AA0CE9CEED38"/>
+<pb n="46" facs="unknown:000313_0050_0FA4AA0CE9CEED38"/>
 himself, <hi>John</hi> 5. 44. <hi>How can ye believe, which receive honour one of another.</hi> The other part of the verse (giving light to these words) is usually o<g ref="char:EOLhyphen"/>mitted by them, <hi>sc.</hi> and <hi>seek not the honour that cometh from God only.</hi>
             </p>
             <p>Quest. <hi>What is that Honour which cometh from God only?</hi>
@@ -1286,7 +1286,7 @@ himself, <hi>John</hi> 5. 44. <hi>How can ye believe, which receive honour one o
             </p>
             <p>
                <hi>Answ.</hi> Nor, doth this Text of Scripture, prove the thing for which it
-<pb n="47" facs="tcp:000313_0051_0FA4AA0DACAB6108"/>
+<pb n="47" facs="unknown:000313_0051_0FA4AA0DACAB6108"/>
 is brought: For, 1. Jesus Christ the Son of God, in this 7<hi>th.</hi> verse<g ref="char:punc">▪</g> is that Word of Life which the Apostles <hi>ver.</hi> 1, 2 had heard and seen with their eyes, and looked upon, and with their hands had handled; who could be no other than the Man <hi>Jesus Christ,</hi> which to prove, they bring in the operations of three of their five senses: Now, this Man Jesus Christ the Son of God, as such, he cannot be in a <hi>Quaker.</hi>
             </p>
             <p n="2">2. By the Blood of this Son of God, is meant the grievous sufferings, pains, and tortures, which he endured on the Cross to the death; and therefore called the <hi>blood of the Cross,</hi> Col. 1. 20. as the Man Jesus Christ, cannot be in a <hi>Quaker,</hi> so consequently, his bloody sufferings cannot be in a <hi>Quaker.</hi>
@@ -1294,7 +1294,7 @@ is brought: For, 1. Jesus Christ the Son of God, in this 7<hi>th.</hi> verse<g r
             <p n="3">3. I at this blood of Christ cleanseth (meaning all right Believers on it) from all sin, <hi>i.e.</hi> from all the pains, and eternal sufferings due to the nature of sin: for (cleansing) here, is the same with washing, in <hi>Rom.</hi> 1. 5 <hi>And from Jesus Christ, the faithful Witness,</hi> that loved us and washed us from our sins in his own blood, <hi>i. e.</hi> in the sufferings of the Man<g ref="char:EOLhyphen"/>hood of his person: for the former part of the verse, concerns Christs Propetical Office: and the latter part, his Priestly Office, which referred to Christs humane Nature: and for that <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ea on, the clean<g ref="char:EOLhyphen"/>sing, or washing cannot be within, but without us, <hi>sc.</hi> in Heaven, <hi>Heb.</hi> 10. 19. <hi>Having therefore</hi> Brethren <hi>boldness to enter into the Holiest, by the blood of Jesus:</hi> So then, to be cleansed from all sin by Christs blood, is to be ac<g ref="char:EOLhyphen"/>quitted and justified in the sight of God, from all the deserved miseries of sin, as <hi>Rom.</hi> 5. 8. 9. <hi>But God commendeth his love towards us; in that while we were yet sinners, Christ died for us: much more then being now justified by his blood, we shall be saved from wrath, through him:</hi> And the same Apostle tells us, <hi>Col.</hi> 1 21, 22. <hi>Yet now hath he reconciled; in the body of his flesh through death,</hi> (or through the death of his body of flesh, <hi>Heb.</hi> 10 20.) <hi>To present you holy, and unblamable, and unreprovable in his sight,</hi> (not in our selves) for, <hi>Rom.</hi>4. 5. <hi>He justifieth the ungodly; Abraham</hi> was justi<g ref="char:EOLhyphen"/>fied in the righteousness of Christs person when he had some ungodliness in his own person: a Believer is compleat in Christ bodily, <hi>Col</hi> 2 8, 9, 10. when he hath some incompleatness in his own body. In a word, these things do clear this Truth, Namely, <hi>To be cleansed from all sin by the blood of Jesus Christ,</hi> is to be understood, for a cleansing from all the guilt, and passive fruits and effects of sin: but not for a cleansing (as in your self) from all the movings, and actings of sin in or by us while in this World which the following verses make most plain: for even they which are by the blood of Jesus Christ, cleansed from all sin <hi>ver.</hi> 7. 8. <hi>They have sin,</hi> and in ver 9 <hi>ought to confess their sin:</hi> Now <hi>Francis,</hi> upon the whole it doth appear, that the Patterns cut out by thee, do still come short of
-<pb n="48" facs="tcp:000313_0052_0FA4AA0E943A0250"/>
+<pb n="48" facs="unknown:000313_0052_0FA4AA0E943A0250"/>
 the measure; which plainly argues, thou art not (as yet) thy Crafts master; yea this was manifested, by thy Answer to this Question; <hi>to wit.</hi>
             </p>
             <p>Quest, <hi>Whether the Saints was cleansed from all sin by the water of rege<g ref="char:EOLhyphen"/>neration, or by the blood of justification<g ref="char:punc">▪</g>
@@ -1309,7 +1309,7 @@ the measure; which plainly argues, thou art not (as yet) thy Crafts master; yea 
                   <desc>•</desc>
                </gap>he Man hood united to the God-head of the Son. And her unto agrees the former part of the 5<hi>th.</hi> verse, <hi>Wherefore when he</hi> (Christ God-man) <hi>cometh into the world,</hi> he saith, <hi>Sacrifice and offering thou wouldest not</hi> (or didst not desire) and therefore were refused by God: it being impossible, that they should purge sin. <hi>ver.</hi> 4. <hi>For it is impossible that the blood of Bulls, and of Goat, should take away sin: But a body hast thou prepared me:</hi> (meaning, to re<g ref="char:EOLhyphen"/>ceive and do his Fathers will, in taking sin away, <hi>Joh.</hi> 1. 29.) God the Son having now taken, and put on the body of flesh, prepared for him as a<g ref="char:EOLhyphen"/>bove; he now undertakes the great work of satisfying Gods Justice for sin; (and so to take away sin) saying, <hi>ver.</hi>7. <hi>Lo I come to do thy will, O God.</hi> And why? he tells us, [<hi>In the volume of the Book it is written of me</hi>] i. e. in the Record of thy Decree, from everlasting is clear for it, that I am he, whom thou (O Father) hast instituted and ordained to do thy will, for the taking away of sin:</p>
             <p>For <hi>ver.</hi> 10. <hi>By the which will, we are sanctified</hi> (or saved) <hi>through the offering of the body of Jesus Christ once for all:</hi> So then the body of<g ref="char:EOLhyphen"/>fered in the 10<hi>th</hi> verse, was the body prepared in the 5<hi>th verse:</hi> But the body of Jesus Christ offered, was a real man-kind body, as the Spirit of Truth witnesseth. Ver. 12. <hi>But this</hi> [Man] <hi>after he had offered one 'Sacrifice for sin, for ever sat down on the right hand of God:</hi> here hence it is manifest. that the very offering of the body of Jesus Christ, could not have saved us, but by the will and ordination of the Father, who pre<g ref="char:EOLhyphen"/>pared
-<pb n="49" facs="tcp:000313_0053_0FA4AA0F3073E670"/>
+<pb n="49" facs="unknown:000313_0053_0FA4AA0F3073E670"/>
 that body<g ref="char:punc">▪</g> for Christs hanging and dying on the Cro<gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>e had not delivered us from the pains of the eternal death, unless it had been <hi>writ<g ref="char:EOLhyphen"/>ten in the volume of the book:</hi> Its most sure, all that our Lord Christ did, or suffered <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1345,7 +1345,7 @@ that body<g ref="char:punc">▪</g> for Christs hanging and dying on the Cro<gap
             <p n="1">1. Because Christs Man kind nature was conceived in <hi>Mary,</hi> by the power of the Highest overshadowing her. <hi>Luk.</hi> 1. 35.</p>
             <p n="2">2. The true Christ is stiled the <hi>Second Man,</hi> because the <hi>first Man,</hi> was his figure, <hi>Rom.</hi> 5. 14 likewise in the Geneologie, <hi>Mat.</hi> 1. Christ is said also, to be partaker of the same flesh &amp; blood, that the children were partakers of <hi>Heb.</hi> 2. 14; but the flesh and blood, which the Children were partakers of, were real, visible, humane (or man-kind) flesh and blood (not Mystical, I visible flesh and blood.)</p>
             <p>
-               <pb n="50" facs="tcp:000313_0054_0FA4AA0FF9B35108"/>
+               <pb n="50" facs="unknown:000313_0054_0FA4AA0FF9B35108"/>
 Besides, this Title, (<hi>sc. The Son of Man</hi>) is frequently attributed to Je<g ref="char:EOLhyphen"/>sus Christ, in the <hi>New-Testament,</hi> as in Mat. 8. 20. <hi>The Foxes have holes, but the Son of man hath not where to lay his head:</hi> also in Mat. 10. 23. &amp; 11. 19. &amp; 12. 8 &amp;c. The Lords Christ is called the Son of Man, which is to shew the truth of his humane-mankind Nature, it being lineally descended from <hi>David,</hi> according to the flesh, and therefore Christ is stiled the Son of <hi>David<g ref="char:punc">▪</g>
                </hi> (<hi>Luk.</hi> 20. 41) Moreover, he hath appella<g ref="char:EOLhyphen"/>tion (of the Son of Man) in reference to his participation with our hu<g ref="char:EOLhyphen"/>mane Nature, in all things which concern created nature, as its stated by the Apostle, in <hi>Heb.</hi> 2. 17. and in Chap. 4 15) <hi>In all things it behoved him</hi> (Christ) <hi>to be made like unto his Brethren:</hi> and he was tempted in all points like as we are, yet without sin: surely he that is in all things like man, except sin, is rightly called the Son of Man: for, sin is not at all the Form, but all the Deformity of Man: The issue is, that the <hi>Fox</hi> hath con<g ref="char:EOLhyphen"/>cealed his craft, putting no difference between the terms. <hi>sc. Hum<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -1357,7 +1357,7 @@ Besides, this Title, (<hi>sc. The Son of Man</hi>) is frequently attributed to J
                </gap>.</p>
             <p>Once more; Christ the <hi>Second Man,</hi> is said to be Lord from Heaven, because, he is to restore the heavenly life, which was lost by the first man <hi>Adam:</hi> who was also said to be Earthly, by reason of Transgression; and Christ is also said to be from Heaven, by reason of Restoration. By the first mans fall, all mankind were deprived of all heavenly and spiritual graces: By the second Man from Heaven, the Elect of God have those Graces (in some measure) restored: As <hi>Calvin</hi> in his Exposition, on the (47th. <hi>ver. above</hi>) <q>
                   <hi>Paul</hi> doth not (saith he) speak of the substance of the second Mans body, but of the habit of Graces, and heavenly gifts of the Spirit of Christ: And on the same verse, he affirms, that the <hi>Manichies</hi> were the first knaves, which invented that Heresie, Name<g ref="char:EOLhyphen"/>ly That Christ brought from Heaven an invisible body of flesh and blood into the Womb of the Virgin.</q> And undoubtedly the <hi>Quakers</hi> have drunk this poison originally from them, by whom the Devil (according to <hi>Calvin</hi>) first set it abroach; which as it was, so still it is, a design from Hell to beget not only a denial, but an utter blotting out of the ve<g ref="char:EOLhyphen"/>ry Name and remembrance (as before) of the true Jesus Christ, and to set up a Spiritual Christ, a Mystical, Invisible, Heavenly King Jesus: and all this only to advance the <hi>Idol-light</hi> within, and the more easily to de<g ref="char:EOLhyphen"/>ceive
-<pb n="51" facs="tcp:000313_0055_0FA4AA1135ADDDF8"/>
+<pb n="51" facs="unknown:000313_0055_0FA4AA1135ADDDF8"/>
 poor ignorant and unstable persons; which hath been, and still is, their <hi>stragling Trade;</hi> I have yet one thing more to mention concerning this <hi>Fox;</hi> which is, in his Book above, <hi>Page</hi> 135. to wit, <hi>That</hi> Thomas Moor <hi>had said, that Christ was absent from us while we are in this mortal body;</hi> which (said the <hi>Fox</hi>) is contrary to the Apostle, who saith, <hi>The life of Jesus,</hi> is [Mark, <hi>is</hi>] <hi>manifested in their</hi> [Mark, <hi>their</hi>] <hi>mortal flesh:</hi> but <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>e (Fox-like) quotes not any place of Scripture; the Text of Scri<g ref="char:EOLhyphen"/>pture abused by him, is in 2 <hi>Cor.</hi> 5. 11. <hi>Eor we which live, are alway deli<g ref="char:EOLhyphen"/>vered unto death, for Jesus sake, that the life also of Jesus might</hi> (not is, but) <hi>be made manifest in</hi> (not <hi>their,</hi> but) <hi>our mortal flesh.</hi>
@@ -1366,7 +1366,7 @@ poor ignorant and unstable persons; which hath been, and still is, their <hi>str
                <hi>Note,</hi> the <hi>Fox</hi> saith, The life of Jesus (is manifested) making it pre<g ref="char:EOLhyphen"/>sent: but <hi>Paul</hi> saith, <hi>that the life of Jesus</hi> (might be made manifest) ma<g ref="char:EOLhyphen"/>king it <hi>future:</hi> nay, he hath not only believed the Letter, but the Sense also of the Text, which may appear partly by the former part of this 11<hi>th.</hi> verse, and partly by the subsequent verses: in the former part of the verse, thus, <hi>For we which live, are alway delivered unto death, for Jesus sake,</hi> i. e. we have (sc. for the testimony of Jesus) <hi>Death</hi> (that is suffer<g ref="char:EOLhyphen"/>ings to death as in the subsequent verses 9, 10.) <hi>continually before err eyes; that we might be prepared for the fellowship of the glorious resurrection;</hi> when there will be a full manifestation made of the glorious life of Jesus in our mortal flesh: this may yet further appear, in ver. 12. <hi>so then, death worketh in us,</hi> i. e. our daily sufferings (from the cruel hands of unbelie<g ref="char:EOLhyphen"/>ving men) for our Faith in, and Testimony for Jesus; <hi>and as it worketh in us, so it</hi> (<hi>sc.</hi> the strokes which are deadly to our bodies) <hi>works,</hi> ver. 17 <hi>for us:</hi> And what work they? the 17<hi>th.</hi> verse Answereth, <hi>For our light Affliction, which is but for a moment; worketh for us, a far more exceeding and eternal weight of Glory;</hi> But how do they work it? <hi>Answ.</hi> Not by way of merit or earning (our striving to blood, cannot oblige God) but by way of preparation to the resurrection, in <hi>ver.</hi> 14. <hi>Knowing that he which raised up the Lord Jesus, shall raise us up also by Jesus.</hi> Then that glorious life of Jesus, shall be manifest in our mortal flesh: the sum of all is this; <hi>to wit,</hi> That the Lord sends afflictions, yea, death it self (which to the Saints, is the last and greatest affliction) not only to cleanse their souls, but to fashion and prepare their bodies, as vessels to hold the ex<g ref="char:EOLhyphen"/>ceeding weight of glory: Now let any sober Saint judge, whether <hi>Tho<g ref="char:EOLhyphen"/>mas Moor,</hi> or <hi>George Fox</hi> hath contradicted the Apostle; surely that Fox which endeavours (as much as in him lies) to ch<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ak the Lamb of God, will be ready to wrest the mind of the Apostle. This <hi>Fox,</hi> is seconded by Quaker <hi>Penington: sc.</hi> That the body prepared. <hi>Heb.</hi> 10. 5. <hi>above,</hi> was a Mystical Invisible body of flesh and blood: for, in his Book, called <hi>My<g ref="char:EOLhyphen"/>steries of the Kingdome,</hi> he saith, <hi>That the external blood of Christ cannot
-<pb n="52" facs="tcp:000313_0056_0FA4AA12EC0B8B10"/>
+<pb n="52" facs="unknown:000313_0056_0FA4AA12EC0B8B10"/>
 cleanse the Conscience;</hi> for the blood of Bulls and Goats could not do if no more can his blood, (putting no more worth or vertue in the blood of Christ, than in the blood of Beasts,) the consideration of this insuffera<g ref="char:EOLhyphen"/>ble Blasphemy, did so provoke the Spirit of Mr. <hi>Francis Duke</hi> (a Man eminent for Meekness and Modesty) that in his answer to one <hi>John Chand<g ref="char:EOLhyphen"/>ler</hi> (a Teaching Quaker) for the like expressions from him, <hi>page</hi> 67. he plainly tells this <hi>Chandler,</hi> That he and fellow-leading <hi>Friends</hi> [<hi>are a Pack of such Villains, as base as ever the Earth <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ore</hi>] as for <hi>Penington,</hi> he declares in his Book above, That the heavenly body of flesh and blood, which Christ brought with him from heaven (meaning into the Virgin) and dwelt in the Garment of his body a while, and now is in every Saint, (<hi>sc, Quaker Saints:</hi>) his mind herein, in shortly this: <hi>sc.</hi> That a Mans wearing Garment, is not his body; so the visible material body of Jesus Christ, (which he calls the Garment of his body) is not the Saviour Christ: but as the natural body of a Man is within his Garment, even so the true Christ, was within the Garment of his external body: whence, its most evident, that this <hi>Seducing Teacher</hi> doth not confess (with the A<g ref="char:EOLhyphen"/>postles) <hi>That Jesus Christ of Nazareth, the Man approved of God, and by him exalted to be a Saviour, is the true Christ,</hi> Act. 5. 31. Let me add a little more of <hi>Peningtons Divinity,</hi> in the same Book, <hi>Page</hi> 25. <q>What nature (sayes he) must these Sacrifices be of, which cleanse heavenly things (<hi>sc.</hi> Souls) whither of necessity, they must be heavenly; if so, then whither it was the flesh and blood of the vail, or the flesh and blood within the vail: whither it was the flesh and blood of the outward earth<g ref="char:EOLhyphen"/>ly nature, or the flesh and blood of the inward spiritual nature: whi<g ref="char:EOLhyphen"/>ther it was he flesh and blood which Christ took of the first <hi>Adams</hi> na<g ref="char:EOLhyphen"/>ture, or that of the second <hi>Adams</hi> nature?</q>
@@ -1377,7 +1377,7 @@ cleanse the Conscience;</hi> for the blood of Bulls and Goats could not do if no
             <p n="2">2. That there is an inward spiritual nature (<hi>still the Idol-light within</hi>) which hath mystical flesh and blood, besides the outward earthy nature: the one he calls the flesh and blood of the <hi>vail;</hi> the other, the flesh and blood within the <hi>vail:</hi> All which, he seems to ground upon the Apostles words, <hi>Heb.</hi> 10. 19, 20. <hi>Having therefore Brethrin boldness to enter into the holiest by the blood of Jesus; by a new and living way, which he hath cones<g ref="char:EOLhyphen"/>crated for us through the vail, that is to say, his flesh.</hi>
             </p>
             <p>
-               <pb n="53" facs="tcp:000313_0057_0FA4AA13AFC28C18"/>
+               <pb n="53" facs="unknown:000313_0057_0FA4AA13AFC28C18"/>
 Note here; The Apostle doth not make any mention of two distinct natures: not of two sorts of flesh and blood, (<hi>sc.</hi> visible and invisible) nor in the least, of two distinct <hi>vails:</hi> Now, that his <hi>jugling cheat</hi> may be discovered, let the Apostles mind be duely considered <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> whose meaning is, <hi>to wit,</hi> That Believers may draw near to God, through the <hi>vail</hi> of Christs personal flesh and blood: for, we Christians believe (according to the Scriptures of God) that as the <hi>High Priest</hi> entred into the holy place with the blood of the Sacrifice, so the true Christ, <hi>by his own blood entred in once, into the holy place, into heaven it self, now to appear in the presence of God for us.</hi> Heb. 9. 12. 24. the whole is, That the body of Christs flesh and blood, entring into Heaven (the holiest) is that new and living way consecrated for right Believers to draw near to God, for justification through Faith in the one only <hi>vail</hi> of Christs flesh glorified in Heaven above: which precious Truths, are worth nothing, in the account of a <hi>Quaker.</hi>
@@ -1399,7 +1399,7 @@ Note here; The Apostle doth not make any mention of two distinct natures: not of
                </gap>ickedly equivocate: for they do not mean that the body of <hi>flesh</hi> and <hi>blood life</hi> and <hi>death,</hi> &amp;c. of Jesus of <hi>Nazareth</hi> conceived in, and born of the blessed Virgin <hi>Mart,</hi> hath purchased justification in the sight of God, and Salvation from sin: but they deceitfully mean, <hi>sc.</hi> the new coined invisible <hi>flesh</hi> and <hi>blood</hi> of the heavenly Mystical Christ, (still the <hi>Idol-light</hi> within) that died within and there rose to a righteousness and justification, which is a brat hatcht only in their addle brains, from whence also, it is, they <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>each a <hi>Mystical Bethlehem</hi> within, where Christ was born, that he suffered and died without <hi>Jerusalem,</hi> that is (say they)
-<pb n="54" facs="tcp:000313_0058_0FA4AA146D8C2030"/>
+<pb n="54" facs="unknown:000313_0058_0FA4AA146D8C2030"/>
                <hi>Mystical Jerusalem</hi> within: O ye <hi>Quakers</hi> judge whither these are not strong and damnable delusions. So much also, for some further satisfa<g ref="char:EOLhyphen"/>ction to <hi>William Bullock, F. <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>.</hi> and <hi>W. H.</hi> concerning those words, <hi>But a body thou hast prepared me,</hi> Heb. 10. 5. which was the last Text of Scrip<g ref="char:EOLhyphen"/>ture proposed by them, in reference to the first part of the Charge as above:</p>
@@ -1415,7 +1415,7 @@ Note here; The Apostle doth not make any mention of two distinct natures: not of
             <p>That the pretended Light in them, is their true Christ, Teacher, Rule, and Guid, to be heard, believed in, walked up unto, and obeyed, as the only Saviour, to give remission of sins, and Salvation with God: to which <hi>F. E.</hi> forth with replied, That he would for this, lay down his life: and to confirm him therein, <hi>W. Harriot</hi> then said, we deny the out side Christ to be our Saviour: Then I requested the Hearers to take good notice: <hi>sc.</hi> they have plainly granted, that the end of their Meeting to be, for to Teach a denial of Jesus of <hi>Nazareth,</hi> the Man approved of God, (<hi>Act.</hi> 2. 22) to be the true Christ, and our only Saviour: which Teaching, is to make the Lord Christ, his Holy Spirit, his Angels, and Apostles all Lyars, and False witnesses of God: which I proved in their particular order, from the Scriptures of God. As<g ref="char:punc">▪</g>
             </p>
             <p n="1">
-               <pb n="55" facs="tcp:000313_0059_0FA4AA15517CD650"/>
+               <pb n="55" facs="unknown:000313_0059_0FA4AA15517CD650"/>
 1. That this their Teaching, doth (as much as in them lies) make the Lords Christ a lyar: for we read <hi>Joh.</hi> 9. 35, 36, 37. <hi>Dost thou</hi> (saith Christ to the Man that was born blind) <hi>Believe on the Son of God; he answered and said, who is the Lord, that I might believe on him? And Jesus said unto him, thou hast both seen him, and it is be that talketh with thee.</hi>
             </p>
             <p>
@@ -1427,13 +1427,13 @@ Note here; The Apostle doth not make any mention of two distinct natures: not of
                   </gap> Christ, the Son of the living God:</hi> Christ was so highly satisfied with this Answer, that first, he pronoun<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>eth him blessed, <hi>ver.</hi> 17. and se<g ref="char:EOLhyphen"/>condly declares, that this confession, is the rock upon which the Church is built: and withal Christ assures his Disciples, that against this <hi>Rock (the joyn confession,</hi> sc. <hi>That Jesus the Son of man, is the Christ the Son of the li<g ref="char:EOLhyphen"/>ving God, the Gates of hell shall never prevail:</hi> O ye <hi>Teaching Quakers,</hi> is not this enough to open the eyes of your blind <hi>Idol</hi> within. Again, how hath our Lord himself, said of himself (even since his being ascended and glorified) <hi>Act.</hi> 22. 8. <hi>I am Jesus of Nazareth,</hi> whereby is plainly affirmed, the now present glorified existence of the Man Jesus Christ of <hi>Nazareth,</hi> and hereunto agrees that which he foretold of himself, <hi>Mat.</hi> 24. 30. <hi>And they shall see the Son of Man, coming in the clouds of Heaven, with power
-<pb n="56" facs="tcp:000313_0060_0FA4AA15F2914C18"/>
+<pb n="56" facs="unknown:000313_0060_0FA4AA15F2914C18"/>
 and great glory:</hi> the whole is this, is Jesus of <hi>Nazareth</hi> (whom they wickedly call the out side Christ) be not the true Christ and our only Saviour; then he is (according to a <hi>Quakers</hi> inside Christ) a Lyar in all the words uttered by him above: but let God be true, and his Ene<g ref="char:EOLhyphen"/>mies Liars; such Liars are <hi>Teaching Seancing Quakers;</hi> yea, accursed Liars, <hi>Gal.</hi> 1 8, 9. as above.</p>
             <p n="2">2. That this Teaching in their Meetings, doth (as much as in them lies) make the holy Spirit of Christ Lyar: for we read in the 1 <hi>Pet.</hi> 1. 10, 11. the Prophets, searching what or what manner of time the Spirit of Christ, which was in them <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> signifie, when it testified before hand the sufferings of Christ, and the glory (Salvation Grace, <hi>ver.</hi> 10.) that should follow: and in <hi>Acts</hi> 5. 30, 31, 32 the Holy Ghost doth wit<g ref="char:EOLhyphen"/>ness that God raised up the same Jesus whom the <hi>Jews</hi> slew, and exalted him to be a Prince and a Saviour: Likewise, <hi>Luk.</hi> 2 26, 27, 28, 30. That the Holy Ghost revealed to just and de out <hi>Someon,</hi> that the Child Jesus, which he took up in his arms, and saw with his bodily eyes was the Lords Christ and Salvation, prepared before the face of all people. And <hi>Paul</hi> also (by the inspiration of the Spirit) assures us. <hi>Rom.</hi> 5. 15. <hi>That the Grace of God, and gift by Grace, which by one man Jesus Christ, hath a<g ref="char:EOLhyphen"/>bounded to many:</hi> this one Man, is no other then Jesus of <hi>Nazareth,</hi> the man approved of God (not in, but) among the <hi>Jews, who with their wicked hands, did take, and him they crucified and slew,</hi> Act. 2. 22, 23 The sum is this, If the Man Jesus Christ of <hi>Nazareth,</hi> whom the <hi>Jews</hi> slew, and hanged on a tree, and God raised from the dead the third day, and exalted to be the only Saviour (be a Spiritual inside Christ, a Heavenly Man of Mystical, Invisible flesh and blood) then the holy spirit of Truth must be a Lyar; which to affirm (as <hi>Quakers</hi> in effect do) is horrid Blasphemy.</p>
             <p n="3">3. They do in their Meetings and aimes make the Angels of Christ Liars, as it appears by the <hi>Evangelists,</hi> Mat. 1. 20, 21. <hi>Behold the Angel of the Lord appeared to Joseph,</hi> saying, <hi>Fear not to take unto the Mary thy Wife, for that which is conceived in her, is of the Holy Ghost; and she shall bring forth a Son, and thou shalt call his Name Jesus,</hi> for <hi>he shall save his people from their sins.</hi> And in <hi>Luk.</hi> 1. 30, 31, 32. <hi>And the Angel said unto her, fear not Mary, for thou hast found favour with God, and behold thou shalt conceive is thy womb, and bring forth a Son, and shall call his Name Jesus, and he shall be great, and shall be called the Son of the Highest:</hi> and again on his Birth day, <hi>Luk.</hi> 2. 10, 11. <hi>And the Angel said unto them</hi> (the Shepherds) <hi>fear not;</hi> for, <hi>behold I bring you good tidings of great joy, which shall be to all people; for to you is born this day, in the City of David, a Saviour which is Christ the Lord,</hi> and ver. 13, 14, 15. <hi>Suddenly there was the Angel a
-<pb n="57" facs="tcp:000313_0061_0FA4AA16D7AE6C78"/>
+<pb n="57" facs="unknown:000313_0061_0FA4AA16D7AE6C78"/>
 multitude of the Heavenly Host, praising God and saying, Glory to God in the Highest, and on Earth peace, good will towards men.</hi> And immediately upon this blessed Remark on the <hi>Babe,</hi> ver. 12. wrapped in swadling clothes, ly<g ref="char:EOLhyphen"/>ing in a Manger; the Angels went away from the Shepherds into Hea<g ref="char:EOLhyphen"/>ven: whence I do in<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>er; <hi>sc.</hi> if the Lords Christ conceived in the Womb of <hi>Mary,</hi> and born of her in the City of <hi>David,</hi> be not the true Christ and our only Saviour (but a mystical, unconceived, and unborn Christ) then the glorious Angels of God, must be liars in all the expressions which they declared to <hi>Joseph. Mary,</hi> and the <hi>Shepherds:</hi> but most sure I am, that every good Christian will rather believe the Elect Angels of God, the<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1452,14 +1452,14 @@ multitude of the Heavenly Host, praising God and saying, Glory to God in the Hig
                   <desc>•</desc>
                </gap>etook themselves to their former practice, of repeating some <hi>Texts</hi> of Scripture, to beget Believers in their new invented-Mystical, Invisible Christ, their Spiritual heavenly Man, of internal and eternal Flesh, Blood and Bones, their everlasting Gospel, their tender part, that Idol light within.</p>
             <p>
-               <pb n="58" facs="tcp:000313_0062_0FA4AA1763B334B8"/>
+               <pb n="58" facs="unknown:000313_0062_0FA4AA1763B334B8"/>
                <hi>William Harriot,</hi> was (as to the second part of the Charge) the first <hi>Champion</hi> that stood up in defence of their meetings above; saying, <hi>That Paul travelled in birth, till Christ was formed in the Gallatians.</hi>
             </p>
             <p>I demanded of him, where those words might be found? he told me, they were in the Bible: his Answer being like himself) an impertinent Simpleton) inforced me (as at other times) to name this place of Scri<g ref="char:EOLhyphen"/>pture intended by him: <hi>sc. Gal.</hi> 4.19. <hi>My little Children, of whom I tra<g ref="char:EOLhyphen"/>vel in birth again until Christ be formed in you:</hi> To which I Answered:</p>
             <p n="1">1. If when <hi>Paul</hi> writ to the <hi>Galatians,</hi> Christ was to be formed in them, then the light that is in every man (a <hi>Quakers</hi> rotten Principle) by natural Generation, is not the true Christ: but according to this Dispu<g ref="char:EOLhyphen"/>tant) when <hi>Paul</hi> was travelling in birth for the <hi>Galatians,</hi> Christ was not formed in them, Therefore, the Light that is in every man that comes into the World, is not the true Christ. Though this poor deluded, <hi>soft</hi> and <hi>fair,</hi> had so deeply lasht himself, yet he felt it not.</p>
             <p n="2">2. That Christ formed in a Saint, is Christ framed and wrought in him by the spirit of Faith, as the same Apostle explains it to the <hi>Galatians, Chap.</hi> 5. <hi>ver.</hi> 5. <hi>For we through the Spirit, wait for the hope of righteousness by Faith,</hi> so that a work of the Spirit of Grace in the heart, is Christ ope<g ref="char:EOLhyphen"/>rated and formed in the heart, as afore illustrated.</p>
             <p n="3">3. The Apostle his <hi>travelling in birth,</hi> &amp;c. is an <hi>Allegory:</hi> for the A<g ref="char:EOLhyphen"/>postles were instead of Fathers: As the natural Father begets the bodily form, so the Apostles begot the spiritual form of the mind, <hi>which is Faith, or confidence of heart,</hi> laying hold upon the righteousness of that one man Jesus Christ alone, <hi>Rom.</hi> 5. 15. above, to be made righteous in the sight of God, <hi>ver.</hi> 19. <hi>For as by one mans Disobedience many were made sinners, so by the obedience of one</hi> (<hi>sc.</hi> the one Man Jesus Christ, <hi>ver.</hi> 15.) <hi>shall many be made righteous,</hi> (<hi>sc.</hi> in the sight of God, <hi>ver.</hi> 21.) here <hi>Wil<g ref="char:EOLhyphen"/>liam Harriot</hi> interrupted me, saying, <hi>we are not come here to hear thee Preach:</hi> As I was about to take up his <hi>Bolt,</hi> I was hindred by <hi>William Wilkinson,</hi> who called to me, <hi>Friend,</hi> hear <hi>Friend;</hi> I replied, I am none of thy Friend, for I am an Enemy to the Devil and all his Works, Christ (quoth he) <hi>called him Friend, who was without the Wedding Garment:</hi> I then asked him, who made his Wedding Garments? Now, that which invited this <hi>Queston,</hi> was a confident report that he had (at once) two Wives, and in the time of his pretended distraction, he called the one his Spiritual Wife, and the other his Fleshly Wife: Surely had this felonious <hi>Quaker</hi> been really but half so Lunatick, as he seigned himself, it would have rendred him uncapable of receiving this crafty and knave like di<g ref="char:EOLhyphen"/>stinction from the Master of his Religion, and Maker of his Wedding Clothes, face't with dissembling Madness: but letting this pass, I shall
-<pb n="59" facs="tcp:000313_0063_0FA4AA1ADAB78210"/>
+<pb n="59" facs="unknown:000313_0063_0FA4AA1ADAB78210"/>
 add a little more to the alledged Text above, <hi>Gal.</hi> 4.19. herein <hi>Paul</hi> doth reprove the false Apostles, who had abolished the professed form of Christ in the <hi>Galatians,</hi> and withal devised another form, <hi>Gal.</hi> 6.13. <hi>But they desire to have Circumcised, that they may glory in your flesh:</hi> thus the Se<g ref="char:EOLhyphen"/>ducing Teaching <hi>Quakers,</hi> have learnt their ignorant Disciples, to glory in their own flesh; whereas the blessed Apostle, like a true Gospel Fa<g ref="char:EOLhyphen"/>ther, travelled in birth (<hi>i.e.</hi> spiritually pained and troubled) till Christ was formed, namely, by a through work of Faith in their hearts; that they might truly believe in the righteousness of the Law fulfilled by Jesus Christ of <hi>Nazareth</hi> alone; without Circumcision, or any other work of the Law wrought, is or by themselves, as causal of justification in the sight of God; this being the true mind of the holy Spirit: it can<g ref="char:EOLhyphen"/>not therefore be any advantage to their cause; nor doth it in the least justifie the bold and open wickedness of thee (<hi>O William Harriot</hi>) who didst reflect. Blasphemous contempt upon the <hi>glorified Manhood</hi> of the just and holy one, existing in Heaven above: [calling him the <hi>outside Christ.</hi>] When Jesus Christ of <hi>Nazareth</hi> was in this World, he was (as Man) so far approved of God, that he commanded all the Elect An<g ref="char:EOLhyphen"/>gels to worship him. <hi>Heb.</hi> 1.6. but with condemned thee (<hi>W. H.</hi>) a con<g ref="char:EOLhyphen"/>temned out side Christ, no Saviour, no true Christ.</p>
             <p>
                <hi>W. Harriot,</hi> I will ask one Question of thee, which if thou canst so<g ref="char:EOLhyphen"/>berly <hi>Answer,</hi> I do assure thee, it shall be seriously considered: the <hi>Que<g ref="char:EOLhyphen"/>ston is this; to wit,</hi>
@@ -1469,7 +1469,7 @@ add a little more to the alledged Text above, <hi>Gal.</hi> 4.19. herein <hi>Pau
                </abbr> For <hi>Nick-naming</hi> the Lords Christ, and our only Saviour, an out side Christ, (an unscriptural phrase) and no Saviour.] the reason of this <hi>Question</hi> is, Because, we read that our blessed Lord Jesus Christ <hi>whipt</hi> sundry persons (honester then thy self, and for a lesser offence) as in <hi>Joh.</hi> 2.13, <hi>to</hi> 17. <hi>And Jesus went up to Jerusalem, and found in the Temple those that sold Oxen and Sheep, and Doves, and the Changers of Money sitting: And when they had made a scourge of small Cords, he drove them all out of the Temple, and said unto them, make not my Fathers house a house of Merchandize.</hi>
             </p>
             <p>Do thou now consider, if our Lord Jesus Christ made (at <hi>Jerusalem</hi>) a whip of small Cords, and with it did whip the people, for abusing the Temple, which was but a Type or Figure of the humane or mankind na<g ref="char:EOLhyphen"/>ture of Jesus Christ; which is testified in <hi>ver.</hi> 19, 21. <hi>Destroy this Tem<g ref="char:EOLhyphen"/>ple, and in three Dayes I will raise it up:</hi> But he spake of the Temple of his Body; in which all his Fathers true Worship was to terminate, as it appeareth (by comparing some Scriptures,) the 1 <hi>Kings</hi> 8. 30, 44, 48. <hi>And hearken thou to the supplication of thy Servant, and of thy People Israel
-<pb n="60" facs="tcp:000313_0064_0FA4AA1C3604CFC8"/>
+<pb n="60" facs="unknown:000313_0064_0FA4AA1C3604CFC8"/>
 when they shall pray towards this Temple,</hi> (<hi>i. e.</hi> towards the Temple in <hi>Je<g ref="char:EOLhyphen"/>rusalem;</hi> for the words were <gap reason="illegible" resp="#AELD" extent="3 letters">
                   <desc>•••</desc>
                </gap>cred by <hi>Solomon</hi> at the Dedication of the Temple: and in the faith hereof. <hi>Daniel</hi> prayed, <hi>Chap</hi> 6.<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -1489,7 +1489,7 @@ when they shall pray towards this Temple,</hi> (<hi>i. e.</hi> towards the Templ
                   </gap>k Lambs of God:</hi> but I can assure your that the persons which Jesus Christ whipt out of the Temple, were far more peaceable then your selves: for they were but externally uncivil towards the Temple, a sha<g ref="char:EOLhyphen"/>dow or figure only of the Body of Christs flesh; but thou, art Blasphe<g ref="char:EOLhyphen"/>mously rude: yea, ye make it your profest Religion, to derogate from the true humane substance of the Lords Christ: and (with a brazen forehead, and feared Conscience) vilifying the holy thing born of <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> called the Son of God: what greater violence can be offered to a true Christians peace: <hi>Paul</hi> exhorts Christians. 1 <hi>Tim.</hi> 2.2. <hi>To pray for Kings, and for all that are in Authority, that we may lead a quiet and peace<g ref="char:EOLhyphen"/>able life in all Godliness and Honesty:</hi> which Christian Prayers, the Ma<g ref="char:EOLhyphen"/>gistrates are bound (in Conscience) to Answer in their practice, which they cannot do, so long as such Peace breakers and open Transgressors: 1. Of Godliness (in respect of Gospel Ordinances. 2. Of Honesty (in respect of Allegiance) are tolerated by them: howbeit, I do not thus speak in respect of the poor ignorant Seduced <hi>Quakers</hi> (the gene<g ref="char:EOLhyphen"/>rality of that Sect, being such in these Islands) but to thy self, and all such Soul Seducers: Now <hi>W. Harriot,</hi> if the Christian Magistrate should follow our Lord and Saviours Example herein: don't thou cry our <hi>Persecution,</hi> if thou dost, the <hi>Scourge</hi> which Christ made of small Cords; will tell thee, that thou art mistaken, it being a correcting of the <hi>Nocent,</hi> no persecuting of the <hi>Innocent:</hi> and for thy better satisfaction in this weighty matter, do thou consider, what he was that made that Scourge of small Cords (and withal made such good use of it) and thou will find, that he was, <hi>sc.</hi>
             </p>
             <p n="1">
-               <pb n="61" facs="tcp:000313_0065_0FA4AA1CA4A879C8"/>
+               <pb n="61" facs="unknown:000313_0065_0FA4AA1CA4A879C8"/>
 1. A <hi>Prince</hi> that had Magistracy and Ministry, radically resident in himself, as the Son of Man.</p>
             <p n="2">2. Though it were so: yet he alwayes refused to act as a Magistrate, except it were in this one particular case, of whipping or scourging the abusers of the Temple, in the holy City of <hi>Jerusalem.</hi>
             </p>
@@ -1505,7 +1505,7 @@ when they shall pray towards this Temple,</hi> (<hi>i. e.</hi> towards the Templ
             <p n="2">2. As the forced sense above, doth destroy the nature of the Word [<hi>Hope</hi>] so it doth the genuine nature of the phrase [<hi>Glory</hi>] which sig<g ref="char:EOLhyphen"/>nifies Eternal Life, (<hi>Tit.</hi> 1.2. <hi>above</hi>) which is in reversion, or expecta<g ref="char:EOLhyphen"/>tion, as the Apostle witnesseth, 1 <hi>Pet.</hi> 5.1. <hi>I who am a witness of the suffer<g ref="char:EOLhyphen"/>ings of Christ, and also a partaker</hi> (sc. by Faith) <hi>of the Glory that shall be revealed.</hi>
             </p>
             <p n="3">3. If the entire Clause in the Scripture above alledged, <hi>Col.</hi> 1. 27. be duely considered, it will plainly shew us, that the sense afore imposed by them, is antiscriptural; for the whole clause in the Verse runs thus, [<hi>which is, Christ in you the hope of Glory.</hi>] which is (they usually leave out) refers to the former part of the verse; namely, The riches of the Glory of the Gentiles: which Riches, Christ in you the Hope of Glory. Note that it was the person of Christ, which was the Riches of the Glory
-<pb n="62" facs="tcp:000313_0066_0FA4AA1DB7FE7130"/>
+<pb n="62" facs="unknown:000313_0066_0FA4AA1DB7FE7130"/>
 of the <hi>Gentiles,</hi> as well as of the people <hi>Israel,</hi> Luk. 2. 32. again, the Lords Christ, is called <hi>the Riches of glory, and the unsearchable Riches a<g ref="char:EOLhyphen"/>mong the Gentiles;</hi> who is, said, <hi>ver.</hi> 17. <hi>to dwell in the heart by Faith:</hi> so that the mind of <hi>Paul,</hi> in <hi>Col.</hi> 1. 27. is explained in <hi>Eph.</hi>3. 17. that is to say, Christ in you (by Faith) is the hope of Glory to be revealed, 1 <hi>Pet:</hi> 
                <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -1518,7 +1518,7 @@ of the <hi>Gentiles,</hi> as well as of the people <hi>Israel,</hi> Luk. 2. 32. 
             </p>
             <p>I Answer, This Mysterious and astonishing Question, with <hi>Augustine, (Epist.</hi> 55. <hi>ad Dard<g ref="char:punc">▪</g>
                </hi>) who affirms. <q>That the Deity is wholly every where, and in every thing; for the Godhead cannot be divided or parted:
-<pb n="63" facs="tcp:000313_0067_0FA4AA1F2E2239F8"/>
+<pb n="63" facs="unknown:000313_0067_0FA4AA1F2E2239F8"/>
 That it is whole within all things, and whole without all things, no where included no where excluded, containing all things, contained of no<g ref="char:EOLhyphen"/>thing yet not at all mingled with the nature of these things, no<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> defiled with their pollutions.</q>
@@ -1546,13 +1546,13 @@ That it is whole within all things, and whole without all things, no where inclu
                   <desc>•</desc>
                </gap>eck their own interest, more then Christs:</p>
             <p>
-               <pb n="64" facs="tcp:000313_0068_0FA4AA1FCE71C4E8"/>
+               <pb n="64" facs="unknown:000313_0068_0FA4AA1FCE71C4E8"/>
 Hence, 2. <hi>Paul</hi> infers; yea, <hi>Though we have known Christ after the flesh,</hi> i. e. after worldly greatness and honour, creature Pomp and Digni<g ref="char:EOLhyphen"/>ty: in which sense [<hi>Flesh</hi>] is understood in ( 1 <hi>Cor.</hi> 1.<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>6.) <hi>Not many wise men after the flesh, not many Noble, not many Mighty (sc.</hi> after the flesh) <hi>are called:</hi> in this sense, is [<hi>Flesh</hi>] in the alledged Text above, to be understood; as if the Apostle had said, while we were unbelieving Pharises, we expected the <hi>Mesias</hi> to come in external state, earthly Glo<g ref="char:EOLhyphen"/>ry and Majesty: but being now converted to the Faith of Christ, we have laid aside those fleshly thoughts, and apprehensions of Christ, after which, <hi>we know him no more:</hi> this is (as I said) the mind of <hi>Paul,</hi> in re<g ref="char:EOLhyphen"/>ference to Christ after the Flesh (in the Text of Scripture above) it doth not therefore advantage their cause, of an Idol light within, their pre<g ref="char:EOLhyphen"/>tended Christ and only Saviour: I did expect some return from <hi>W. W.</hi> but he made none.</p>
             <p>Then <hi>F. Eastlack</hi> said, The Scripture saith, <hi>It is Christ in you</hi> (mean<g ref="char:EOLhyphen"/>ing therefore we are not to know Christ after the Flesh) I told him, that I had more then once made Replies to those words, which had (as I ho<g ref="char:EOLhyphen"/>ped) given full satisfaction to the Christian Hearers; but this poor man, being almost spent, said again, the Scripture saith, <hi>It is Christ in you:</hi> which a little moved me, and thereupon I demanded of him, <hi>sc.</hi> If the true Christ and only Saviour be in thee, in what part of thy body is he residing? that is to say, whether in thy ly Legs, Brains or Bowels? he had his Answer ready, <hi>sc. This is an Ishmael;</hi> and his Brother Blasphemer <hi>W. H</hi> seconded him, <hi>Yes</hi> (quoth he) <hi>He is an Ishmaelite:</hi> to which, (be<g ref="char:EOLhyphen"/>ing now without interruptions) I make this return, That I am, content to be called [<hi>Ishmael</hi>] as it signifies [<hi>Heard of God</hi>] as (I hope) I am, in bearing witness to the <hi>Grace of God, and Gift by Grace, which abounds</hi> (to all believing Christians) <hi>through the one Man Jesus Christ:</hi> and with<g ref="char:EOLhyphen"/>all let me tell you <hi>Quakers,</hi> Though ye are not in <hi>Name,</hi> yet in <hi>Nature, Disposition</hi> and <hi>Practise</hi> ye are the true <hi>Ishmaels;</hi> as it doth appear by the Spirit of Christ, (<hi>Gal.</hi> 4.22. <hi>to the end.</hi>) wherein, all such as stand under <hi>the Covenant of works</hi> (as <hi>Quakers</hi> do) are typified by <hi>Ishmael,</hi> for in this <hi>History</hi> (as spiritually applied by the holy Apostle) we have these particulars noted: (1.) <hi>Sarah,</hi> notes <hi>Jerusalem</hi> above. (2.) <hi>Isaac</hi> all the true seed of God by promise in Christ through Faith. (3.) <hi>Ha<g ref="char:EOLhyphen"/>gar,</hi> the literal Covenant of God, abused by all false Teachers. (4.) <hi>Ish<g ref="char:EOLhyphen"/>mael.</hi> All Hypocrites and Bond-Children hereby brought forth in the Church, mocking and persecuting the Children of promise (under the Covenant of Grace) <hi>&amp;c.</hi> As its more particularly asserted in <hi>ver.</hi> 29. <hi>But as then, he that was born after the flesh, persecuted him that was born af<g ref="char:EOLhyphen"/>ter the Spirit,</hi> even so it is now.</p>
             <p>
-               <pb n="65" facs="tcp:000313_0069_0FA4AA206F9EA898"/>
+               <pb n="65" facs="unknown:000313_0069_0FA4AA206F9EA898"/>
 Here the Apostle reports to us, a great Example of unholy scorn; <hi>sc Ishmael</hi> persecuting <hi>Isaac; Moses</hi> tells us the manner how, and the wea<g ref="char:EOLhyphen"/>pon where with, <hi>Ishmael</hi> did not li<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>t up his hand against <hi>Isaac</hi> (as <hi>Cain</hi> did against <hi>Abel</hi>) but his tongue: he mocked him, <hi>Gen.</hi> 21.9. reproachful mocking, is one of Satans choice Engines to wound the blessed Gospel at the very heart: even so it is now (saith <hi>Paul</hi> there) and we may now say, even so it is now; that is, they that are born after the Fesh, do per<g ref="char:EOLhyphen"/>secute them that are born after the Spirit (or of God, <hi>Joh.</hi> 
@@ -1582,7 +1582,7 @@ Here the Apostle reports to us, a great Example of unholy scorn; <hi>sc Ishmael<
                   </gap>g.</hi> Was taken from 1 <hi>Joh.</hi> 5.8. <hi>Where are three that bear witness in Earth, the Spirit, and the Water, and the Blood, and these three agree in me:</hi>
             </p>
             <p>
-               <pb n="66" facs="tcp:000313_0070_0FA4AA223A512B30"/>
+               <pb n="66" facs="unknown:000313_0070_0FA4AA223A512B30"/>
                <hi>But the Spirit that is in thee, doth not agree with the water of Baptism<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>, nor blood of the Supper:</hi> (for thou hast renounced both the Sacraments) <hi>therefore the Spirit of God is not in thee.</hi>
@@ -1600,7 +1600,7 @@ Here the Apostle reports to us, a great Example of unholy scorn; <hi>sc Ishmael<
                <hi>But this holy Spirit doth not bear witness with thy Spirit, that thou art a Child of God:</hi> Therefore, the Spirit of God is not in thee.</p>
             <p>He denied the Assumption; which I proved, <hi>The Holy Spirit Witnes<g ref="char:EOLhyphen"/>seth them only to be Gods Children,</hi> which do believe <hi>Jesus Christ of Naza<g ref="char:EOLhyphen"/>reth</hi> to be the true Christ, and their only Saviour, <hi>Gal.</hi> 3.26.</p>
             <p>
-               <pb n="67" facs="tcp:000313_0071_0FA4AA22A46EA518"/>
+               <pb n="67" facs="unknown:000313_0071_0FA4AA22A46EA518"/>
                <hi>But thou dost not believe on Jesus of Nazareth to be the true Christ, and thy only Saviour;</hi> Therefore, <hi>the Holy Spirit doth not bear witness with thy Spirit, that thou art a child of God, and consequently thou hast not the Spirit of God within thee:</hi> To which he made me no Return at all; so that his <hi>staring silence,</hi> gave open consent to the concluded Truth above.</p>
             <p>The 3<hi>d. Argument</hi> was thus formed: sc. <hi>He that maketh God the Fa<g ref="char:EOLhyphen"/>ther a Lyar, hath not the Spirit of God in him: but thou makest God the Fa<g ref="char:EOLhyphen"/>ther a Lyar:</hi> This Minor he confidently denied, but I proved it, thus:</p>
             <p>
@@ -1627,7 +1627,7 @@ Here the Apostle reports to us, a great Example of unholy scorn; <hi>sc Ishmael<
                </gap>sie, when God shall take away thy Soul: Oh, that thou wouldest seriously think on bles<g ref="char:EOLhyphen"/>sed <hi>Stephen,</hi> (a Man full of the Holy Ghost) when he saw the heavens a<g ref="char:EOLhyphen"/>bove opened, and Jesus the Son of M<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>n standing there, he called on him,
-<pb n="68" facs="tcp:000313_0072_0FA4AA238D015498"/>
+<pb n="68" facs="unknown:000313_0072_0FA4AA238D015498"/>
 and said, <hi>Lord Jesus receive my Spirit,</hi> Act. 7. 55,56,59. But alas <hi>poor Old Man!</hi> on whom wilt thou call, to receive thy almost despairing Spi<g ref="char:EOLhyphen"/>rit? thou art not of blessed <hi>Stephens</hi> Faith, who lived, and died in the Faith of Jesus of <hi>Nazareth,</hi> the true Christ, and his only Saviour: O thou poor sinner, that art deluded into another Faith, how d<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>st thou think to escape the damnation of hell?</p>
@@ -1647,7 +1647,7 @@ and said, <hi>Lord Jesus receive my Spirit,</hi> Act. 7. 55,56,59. But alas <hi>
             <q>
                <p n="1">1. <hi>Quest.</hi> Had not Christ a real humane, mankind body, when he a<g ref="char:EOLhyphen"/>rose out of the Grave; forasmuch as he shewed the prints of the nailes in his hands and feet to <hi>Thomas,</hi> Joh.20.27, surely, this cannot be denied with any colour of reason.</p>
                <p n="2">
-                  <pb n="69" facs="tcp:000313_0073_0FA4AA242A9DE1B0"/>
+                  <pb n="69" facs="unknown:000313_0073_0FA4AA242A9DE1B0"/>
 2. <hi>Quest.</hi> Did he not ascend with the same body, or had he not the same body when he was parted from his Disciples; forasmuch as they saw the same body, go up, that talked with them, <hi>Act.</hi> 1.9,10,11. No man can deny this, with whom the Scriptures of truth, have either Au<g ref="char:EOLhyphen"/>thority or Credit.</p>
                <p n="3">3. <hi>Quest.</hi> Can you say, that Christ put off his body, after he was ta<g ref="char:EOLhyphen"/>ken out of sight before he came into heaven; or if you should say it, doth any Scripture favour you herein? neither <hi>Socinian, Quaker,</hi> or any other to this day, ever produced (nor can) any such Scripture: For <hi>Stephen</hi> saw Christs humane body since in Heaven above. <hi>Act.</hi> 7.55,56.</p>
                <p n="4">4. <hi>Quest.</hi> Or can you tell, that Christ put off his body, since he came to Heaven, and <hi>Stephen saw him there:</hi> I am (said he) most sure, that you can tell no such thing; for the testimony of the holy Angels is a<g ref="char:EOLhyphen"/>gainst it, for they did assure the Disciples, that the same Jesus that they saw ascend, should be so seen to come again, <hi>Act.</hi>1.9,10,11.</p>
@@ -1672,7 +1672,7 @@ and said, <hi>Lord Jesus receive my Spirit,</hi> Act. 7. 55,56,59. But alas <hi>
             <p n="2">2. That no Mans body shall be raised from the dead, (and consequent<g ref="char:EOLhyphen"/>ly, Christ shall not be the riser of the dead.)</p>
             <p>The first of these the Apostle confutes, <hi>in Chap. above, ver.</hi> 3,4. <hi>For I declared unto you first of all, that which I received: how that Christ died for our sins, according to the</hi> Scriptures: <hi>And that he was buried, and that he rose again</hi> the third day, <hi>according to the</hi> Scriptures.</p>
             <p>And the second likewise, in <hi>ver.</hi> 13,14,15. <hi>&amp;c. But if there be no Resur<g ref="char:EOLhyphen"/>rection
-<pb n="70" facs="tcp:000313_0074_0FA4AA259A24BBD8"/>
+<pb n="70" facs="unknown:000313_0074_0FA4AA259A24BBD8"/>
 of the dead, then is Christ not risen; And if Christ be not risen, we are found false witnesses of God, because we have testified of God, that he raised up Christ, whom he raised not up, if so be that the dead rise not.</hi>
             </p>
             <p>Here hence <hi>Paul</hi> infers, <hi>ver.</hi> 32. <hi>If after the manner of men, I have fought with Beasts at Ephesus, what advantageth it me, if the dead rise not; let us eat and drink, for tomorrow we die.</hi>
@@ -1692,7 +1692,7 @@ of the dead, then is Christ not risen; And if Christ be not risen, we are found 
                <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>s, <hi>That othersome of the hearers believed not; moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a Company, and set all the City on an uproar</hi> (against <hi>Paul,</hi> be<g ref="char:EOLhyphen"/>cause he preached Jesus and the Resurrection) Therefore (10.) <hi>The
-<pb n="71" facs="tcp:000313_0075_0FA4AA25AA441D38"/>
+<pb n="71" facs="unknown:000313_0075_0FA4AA25AA441D38"/>
 Brethren immediately sent away</hi> Paul <hi>by <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> unto</hi> Burea, <hi>who coming thither, went into the synagogue of the Jews</hi> (and preached the same Doctrine, v. 12)</p>
@@ -1720,7 +1720,7 @@ Brethren immediately sent away</hi> Paul <hi>by <gap reason="illegible" resp="#A
                      <desc>•</desc>
                   </gap>ve the resurrection of the same body that dies:</hi> how then (said I) do you grant the resurre<g ref="char:EOLhyphen"/>ction of the dead? if the same body that died shall not rise again: Is not this, plainly to deny, what ye grant: for, if it be another body that is raised from the dead, then its not the same body that died: nay, it must be a raising of a body from the dead, that never died: these absurdities must unavoidably follow: Nay furthermore, if it be not the resurrection of the same body that died.</p>
             <p>
-               <pb n="72" facs="tcp:000313_0076_0FA4AA2697C41F28"/>
+               <pb n="72" facs="unknown:000313_0076_0FA4AA2697C41F28"/>
 It cannot be called a Resurrection, but a new Creation, which is altoge<g ref="char:EOLhyphen"/>ther (in effect) to deny the resurrection of the dead; and so a plain self contradiction.</p>
             <p>Next <hi> W. Bullock</hi> appeared telling us, that the same body which dies, shall not rise again, alle<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -1738,7 +1738,7 @@ It cannot be called a Resurrection, but a new Creation, which is altoge<g ref="c
             <p>I Answered, That the last words [<hi>sc. To every seed his own body</hi>] do shew, that it is the same body for substance, which was sowen; but not for qualities:</p>
             <p>
                <hi>F. Eastlack</hi> Replied, saying, The Scripture saith, it is not the same
-<pb n="73" facs="tcp:000313_0077_0FA4AA274D713D08"/>
+<pb n="73" facs="unknown:000313_0077_0FA4AA274D713D08"/>
 body, but thou sayeft it is the same body; I told him, what I had said, the same Texts of Scripture do (in effect (say, <hi>sc.</hi> Though it be not same body for Qualities, yet it is the same body for Substance: as a piece of Plate of the old fashion, being call into a mould of the newest fashion, is the same for substance, but not for qualities: Wool died in a Scarlet co<g ref="char:EOLhyphen"/>lour, is the same wool for substance as it was before, but not for qualities: and withal I told him, if he would not admit of a distinction, how then could he reconcile these Scriptures to his understanding <abbr>
                   <hi>viz.</hi>
                </abbr> 
@@ -1755,7 +1755,7 @@ body, but thou sayeft it is the same body; I told him, what I had said, the same
                <hi>I Answered</hi> 1. That the <hi>S<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>cintans</hi> (your Brethren and fellow Adversa<g ref="char:EOLhyphen"/>ries of the truth) do urge this Text of Scripture, to confirm their asser<g ref="char:EOLhyphen"/>tions against Christ and the Resurrection of the same body; <hi>to wit.</hi> that
-<pb n="74" facs="tcp:000313_0078_0FA4AA27EE3BAD98"/>
+<pb n="74" facs="unknown:000313_0078_0FA4AA27EE3BAD98"/>
 Christ hath not now flesh and blood, nor the nature and properties of a true Mankind body; this hath been afore propounded and confuted: a<g ref="char:EOLhyphen"/>gain (they say, as ye do) <hi>How can the body arise of flesh, when the Apostle saith, Flesh and blood cannot inherit the Kingdom of God; if no flesh shall inherit the Kingdom of God, how can it be affirmed that the same true flesh shall be raised to enter upon that inheritance</hi> (perhaps this improvement he had forgot.</p>
             <p n="2">2. <hi>These inferences</hi> are not only defective, but contrary to the true Na<g ref="char:EOLhyphen"/>ture of a Resurrection, which denotes a taking up of that which was laid down: It must hence follow, <hi>sc:</hi> If the same body that dies be not raised up, but another kind of body, it cannot be a Resurrection, as above; Moreover, if a<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -1791,7 +1791,7 @@ Christ hath not now flesh and blood, nor the nature and properties of a true Man
                <hi>And shall come forth, they that have done good, unto the Resurrection of Life, and they that have done evil, unto the Resurrection of Damnation,</hi> thus (in <hi>Matt.</hi> 25. 46) also <hi>Proved.</hi>
             </p>
             <p n="3">3. That by <hi>Flesh</hi> and <hi>Blood</hi> (in that place of Scripture above) is not meant the substance of <hi>Flesh</hi> and <hi>Blood;</hi> the parts of a Man's body (as now it is) But it is to be understood of the sinfull qualities of Man's Na<g ref="char:EOLhyphen"/>ture (that are to be done away) as in other places, <hi>Rom.</hi> 7. 18,24. Chap. 8. 1,6,7. <hi>Gal.</hi> 5 17,19,24 Flesh doth signifie; ot of naturall Flesh and Blood, of which the body is now composed and made up; as such, it is corruptable, and cannot enter into the Kindome of Heaven; and thus <hi>Paul</hi> expounds it, as in the latter clause of the same 50. <hi>verse. Neither doth corruption inherit incorruption: That is, corruptable Flesh</hi>
-               <pb n="75" facs="tcp:000313_0079_0FA4AA299832C360"/>
+               <pb n="75" facs="unknown:000313_0079_0FA4AA299832C360"/>
 and blood (or flesh and blood that hath the Seed and Principles of Cor<g ref="char:EOLhyphen"/>ruption) shall never enter into <hi>the Kingdome of Heaven:</hi> such flesh and blood is unfit to wear the Crown of Glory; as our Souls must be changed, before they can be fit for Glory, so also must our Bodies from their natural estate, to a spiritual: for at the Resurrection, our bodies shall not be raised natural, corruptable bodies; but spiritual, incorrup<g ref="char:EOLhyphen"/>table bodies, and as such they will be fit for Glory in the Kingdome of Heaven; as its illustrated, <hi>ver.</hi> 52. <hi>And the Dead shall be raised incorrup<g ref="char:EOLhyphen"/>table, and we shall be changed:</hi> but how? the next verse,<hi>sc.</hi> 53. tells us, <hi>This corruptable must put on incorruption:</hi> Note [<hi>This</hi>] <hi>Mortal must put on immortality:</hi> well then, though the body of Man be now natural, corruptable, and mortal flesh and blood (and as such unfit for the King<g ref="char:EOLhyphen"/>dome of Heaven:) But in the Resurrection the body will not be so; for it will then be spiritual, incorruptable, immortal flesh and blood, and be<g ref="char:EOLhyphen"/>ing so qualified, it will be <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> to <hi>inherit the Kingdome of God.</hi>
@@ -1803,7 +1803,7 @@ and blood (or flesh and blood that hath the Seed and Principles of Cor<g ref="ch
                   </gap>s</hi> of the Christian part of the Assembly) came forth to<g ref="char:EOLhyphen"/>wards me, and openly declared, <hi>That they were fully satisfied with my Proofs and Answers.</hi> The <hi>Quakers</hi> being thus regularly found Guilty of the whole charge; the <hi>vast Assembly</hi> was forthwith peaceably dismissed.</p>
          </div>
          <div type="reply">
-            <pb n="77" facs="tcp:000313_0080_0FA4AA2A2774BD10"/>
+            <pb n="77" facs="unknown:000313_0080_0FA4AA2A2774BD10"/>
             <head>READER;</head>
             <p>I Have been earnestly Requested by some of the Lords People in these <hi>Islands,</hi> to make some Replies to three or four <hi>Erroneous Principles</hi> (not Discussed in the <hi>Disputation</hi>) Held and Professed by most <hi>Quakers: To wit,</hi>
                <list>
@@ -1828,7 +1828,7 @@ and blood (or flesh and blood that hath the Seed and Principles of Cor<g ref="ch
                         <desc>•</desc>
                      </gap>
                   </hi> perfection from all sin in this life: nor did <hi>Job</hi> so understand it, witness his own confessions, <hi>Chap.</hi> 9. 20. <hi>If I justifie my self, my own mouth shall condemn me: if I say. I am perfect, it shall also prove me perverse;</hi> That is to say, if I justifie my self, by the actings and expressions of my life, my Mouth would condemn me: so, if I say, I am perfect in the thinkings and secret motions of my heart, it would prove me perverse (<hi>Cavil in locum</hi>) and in <hi>Chap.</hi> 10. 6. <hi>Thou enquirest after my Iniquity, and searchest after my
-<pb n="78" facs="tcp:000313_0081_0FA4AA2B8E5F3EB8"/>
+<pb n="78" facs="unknown:000313_0081_0FA4AA2B8E5F3EB8"/>
 sin:</hi> likewise in <hi>Chap.</hi> 42. 6. <hi>Wherefore I abhor my self, and repent in dust and ashes:</hi> but to put the word <hi>Perfect,</hi> in <hi>ver.</hi> 1. out of all doubt, it is explained in the 8<hi>th. vese</hi> above, <hi>There was none like him in the Earth, a perfect and an upright man:</hi> which referred to that Generation in which <hi>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1850,7 +1850,7 @@ sin:</hi> likewise in <hi>Chap.</hi> 42. 6. <hi>Wherefore I abhor my self, and r
                </p>
                <p>
                   <hi>Rep. Upright,</hi> in the latter clause, doth interpret, perfect, in the for<g ref="char:EOLhyphen"/>mer, so then the perfect man, is the upright or sincere hearted man; we read in <hi>Jacobs</hi> character, <hi>Gen.</hi> 25. 27. and <hi>Jacob</hi> was a plain man; this
-<pb n="79" facs="tcp:000313_0082_0FA4AA2BA403B230"/>
+<pb n="79" facs="unknown:000313_0082_0FA4AA2BA403B230"/>
 phrase <hi>plain man</hi> here, is the same wite <hi>perfect man</hi> in the Text above: a <hi>plain man</hi> and a <hi>perfect man</hi> (in a Scriptural account) are convertible terms, 1 <hi>Chron.</hi> 29.9, 27. and do signifie, a man that hath not a heart and a heart, or a double minded man, <hi>Jam.</hi> 1. 8. not a compound man, speak<g ref="char:EOLhyphen"/>ing one thing and meaning another: It is also the same word, that is gi<g ref="char:EOLhyphen"/>ven to <hi>Noah,</hi> Gen. 6. 9. <hi>He was perfect in his Generation,</hi> or he was found, upright, plain hearted with God: And it is that God spake to <hi>Abraham, Gen.</hi> 17. 1. <hi>Walk before me and be thou perfect;</hi> or <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ound, upright, plain, in thy walking before me: now, though <hi>Job, Noah, Jacob, Abraham,</hi> are said to be <hi>perfect;</hi> yet it is not to be found in the Scriptures, that God ever said of all, or any one of them (or of any other meer Saint) they were <hi>perfect</hi> without sin in this world: but the contrary is (as may after<g ref="char:EOLhyphen"/>wares appear) often found in Holy Writ: forasmuch as it is sincerity (or the Law written in the heart, <hi>Psal.</hi> 40. 8.) which is the only Gospel Perfection.</p>
@@ -1872,7 +1872,7 @@ phrase <hi>plain man</hi> here, is the same wite <hi>perfect man</hi> in the Tex
                   </q>
                </p>
                <p>And thus <hi>Moses</hi> (by way of supposition) said unto the Children of <hi>Israel,</hi> Lev. 18. 5. <hi>which [If] a man do, he shall live in them:</hi> here <hi>Moses</hi> proposeth an unlikely, yea, an impossible practice, under the word [<hi>If</hi>] <hi>which if a man do</hi> (But where is the Man, that can do the law of God, as ex<g ref="char:EOLhyphen"/>actly as he commands it to be done) implying, there's not such a man to be
-<pb n="80" facs="tcp:000313_0083_0FA4AA2E144E3248"/>
+<pb n="80" facs="unknown:000313_0083_0FA4AA2E144E3248"/>
 found in the World, so here, If a Man offend not in word, the same is a perfect man, but such a <hi>non offender</hi> is not to be found, and consequently not a Man of a perfect tongue.</p>
                <p n="2">2. Some take the word [<hi>Perfect</hi>] for Upright, Sincere; that is to say, if a man offend not in word, he is perfect or upright, sincere without <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -1899,7 +1899,7 @@ found in the World, so here, If a Man offend not in word, the same is a perfect 
                      <desc>•</desc>
                   </gap>t<g ref="char:EOLhyphen"/>teth all his Children in his own likeness, <hi>Eph.</hi> 4. 24.</p>
                <p>But in regard of the likeness of <hi>Equality,</hi> thus no man is like the Fa<g ref="char:EOLhyphen"/>ther or the Son, in the degrees of these perfect or pure Qualities: the most pure Saint is not <hi>Equal</hi> to God the Father, in this or that, or the other, which is infinitely pure and perfect in him; this interpretation is only proper to the Text of Scripture above, which speaks not of a per<g ref="char:EOLhyphen"/>fection
-<pb n="81" facs="tcp:000313_0084_0FA4AA2F9EC695F8"/>
+<pb n="81" facs="unknown:000313_0084_0FA4AA2F9EC695F8"/>
 from sin: though the Father be perfect from all sin; yet the <hi>Evan<g ref="char:EOLhyphen"/>gelist</hi> hath not asserted it in this place: and therefore deductions of free<g ref="char:EOLhyphen"/>dome from sin (in he Saints of God in this life) cannot from thence be drawn not rationally argued:</p>
                <p>The sixth Scripture. <hi>Rom.</hi> 6. 8 <hi>Being then made free from sin.</hi>
                </p>
@@ -1930,7 +1930,7 @@ from sin: though the Father be perfect from all sin; yet the <hi>Evan<g ref="cha
                   </gap>here is naturally in all men (as such) a light of direction<g ref="char:punc">▪</g> two manner of wayes.</p>
                <p n="1">1. By the Law written in their hearts; (for which the Apostle is here express,) for when the Gentiles (meaning the unconverted Gentiles) which have not the Law, do by nature (or Natural Light) the things contained in the Law, these having not the Law (formally published or Preached to them) are a Law unto themselves which shew the work of the Law written in their hearts, their conscience also bearing witness <hi>&amp;c.</hi> And as all have a light of direction, from the Law written in their hearts, or in the Book of natural Conscience, So also,</p>
                <p n="2">
-                  <pb n="82" facs="tcp:000313_0085_0FA4AA3029C46200"/>
+                  <pb n="82" facs="unknown:000313_0085_0FA4AA3029C46200"/>
 2. They have a light of Direction, from the Law of Creation, or from that which is written of God, in the Book of the Creature: And <hi>Paul</hi> makes this light, the ground of the righteousness of God, in that dread<g ref="char:EOLhyphen"/>ful revelation of his wrath, Chap, 1. 18, <hi>against all ungodliness, and un<g ref="char:EOLhyphen"/>righteousness:</hi> yea, for this very reason; because, that which may be known of God, is manifest in them, (or to them <hi>ver.</hi> 19. For God hath shewed it to them: the whole is, though all man have not a light of di<g ref="char:EOLhyphen"/>rection from God so powerful as to change them, and make them holy (much less perfect without sin) yet they have a Light so clear and full, as is enough to make them guilty: And when they refuse to follow this Light of Direction, in the Book of the Creature, Chap. 1 20. in doing what is right: then follows the second Light, <hi>to wit,</hi> the Light of con<g ref="char:EOLhyphen"/>viction: their natural Consciences troubling them, or (as <hi>Pauls</hi> phrase is) their thoughts accusing them, because they have done that which is not <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ight: which plainly argues the imperfection of sin, and not a perfection from any, (much less from all) sin, in Men, as Men.</p>
@@ -1943,7 +1943,7 @@ from sin: though the Father be perfect from all sin; yet the <hi>Evan<g ref="cha
                <p>Besides, the <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>erm <hi>Perfect</hi> (let us, as many as be <hi>perfect</hi>) may be taken (as learned, judicious <hi>Authors</hi> have averr'd) for some ripeness, and growth in matters of Christianity; as in the <hi>Jewish Discipline,</hi> there were two sorts of Learners, Beginners, these did only exercise themselves in the first principles of religious matters; and while they were but en<g ref="char:EOLhyphen"/>deavouring
-<pb n="83" facs="tcp:000313_0086_0FA4AA30E7E98B68"/>
+<pb n="83" facs="unknown:000313_0086_0FA4AA30E7E98B68"/>
                   <hi>Beginners,</hi> they were accounted weak, or imperfect in Chri<g ref="char:EOLhyphen"/>stianity; then there were others, that had made some progress in, and attained to some growth in Christian matters learned, these were called strong or perfect (in comparison of the <hi>Beginners</hi>) Thus, <hi>Perfect</hi> is to be understood, in the 1 <hi>Cor.</hi> 2. 6. <hi>Howbeit, we speak wisdome among them that are perfect:</hi> meaning, however imperfect weaklings are taken <hi>with inticing words of mans wisdome,</hi> ver. 4. accounting the Preaching of th<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> Cross (Christ crucified) Foolishness; yet, grown mortified Christians will discern wisdom and sublimity, in the plain preaching of <hi>Jesus Christ Crucified;</hi> and this sense, may be accommodated to this place of Scrip<g ref="char:EOLhyphen"/>ture, <hi>Phil.</hi> 3. 15. <hi>above</hi>) <hi>As many of us as be perfect,</hi> i. e. such of us, as are no <hi>Beginners,</hi> or Learners, such as try experiments in Religion<g ref="char:punc">▪</g> But <hi>Perfect,</hi> such as have made some towardly progress therein, that have at<g ref="char:EOLhyphen"/>tained to some Gospel strength, ripeness, or growth in the blessed Doctrine of Faith.</p>
@@ -1972,7 +1972,7 @@ from sin: though the Father be perfect from all sin; yet the <hi>Evan<g ref="cha
                   <hi>Reply,</hi> 1. The 10<hi>th verse</hi> above, <hi>sc. If we say, that we have not sinned, we make him a Lyar:</hi> by these words the Apostles intend their having of sin after (as well as before) the new birth; for, observe the 8<hi>th. verse, If we</hi> (that is, we, who are in the new birth) <hi>say that we have no sir, we deceive our selves, and the truth is not in us:</hi> Note <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ere, that the words in this 8<hi>th verse</hi> are expresly of the present time; <hi>to wit,</hi> if we (not have
-<pb n="84" facs="tcp:000313_0087_0FA4AA31CB45D570"/>
+<pb n="84" facs="unknown:000313_0087_0FA4AA31CB45D570"/>
 had) no sin, <hi>&amp;c.</hi> which doth most plainly prove; that the born of God have sin after (as well as before) their new birth.</p>
                <p n="2">2. As to the words alledged out of the 1 <hi>Joh.</hi> 3. 9. <hi>Whosoever is born of God, doth not commit sin:</hi>
                </p>
@@ -1987,7 +1987,7 @@ had) no sin, <hi>&amp;c.</hi> which doth most plainly prove; that the born of Go
                <p>The tenth Scripture, <hi>Eph.</hi> 3. 19. <hi>That ye might be filled with all the ful<g ref="char:EOLhyphen"/>ness of God:</hi> which (some say) excludes the being of sin in Saints.</p>
                <p>
                   <hi>Reply,</hi> 1. The phrase [<hi>Fulness</hi>] is to be expounded by a distinction, there being a double fulness; namely, of <hi>Parts</hi> and <hi>Degrees:</hi> for the first of these, we read, <hi>Act.</hi> 7. 55. <hi>But he</hi> (Stephen) <hi>being full of the Holy Ghost;</hi> this Respects the fulness of parts only, that is, he had some<g ref="char:EOLhyphen"/>thing
-<pb n="85" facs="tcp:000313_0088_0FA4AA32CC71E9C0"/>
+<pb n="85" facs="unknown:000313_0088_0FA4AA32CC71E9C0"/>
 thing of every Grace, though not a perfection of any Grace; An Infant may be said to be a perfect man, as it hath a perfection or fulness of parts, but not of growth and degrees.</p>
                <p n="2">2. <hi>The fulness of God,</hi> in respect of <hi>Degrees,</hi> is to be had only in Hea<g ref="char:EOLhyphen"/>ven above; And even there, the <hi>Apostle</hi> intends not equality (but quali<g ref="char:EOLhyphen"/>ty) of fulness: that is, a divine and glorious fulness of or from God: so then the fulness of God above expressed, is to be understood of a ful<g ref="char:EOLhyphen"/>ness (not on Earth, but) in Heaven, which is the proper import of that place of Scripture: for, the Apostle prayes, that they [<hi>Might</hi>] be fil<g ref="char:EOLhyphen"/>led, &amp;c. And so they should be in Heaven, but he asserts not, that either they were, or should be so filled in this life: the person is, because here, we know but in part, 1 <hi>Cor.</hi> 13. 9, 22. <hi>For now we see through a Glasse darkly, but then face to face, now, I know in part, but then I shall know, even as I am known:</hi> Therefore, <hi>the fulness of God</hi> above, doth not exclude the being of sin in this life.</p>
                <p>The eleventh Scripture, <hi>Luk.</hi> 1.6. <hi>Walking</hi> (sc. <hi>Zechari<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2003,7 +2003,7 @@ thing of every Grace, though not a perfection of any Grace; An Infant may be sai
                      </gap>e dumb, and not able to speak, until the day that th<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>se things
-<pb n="86" facs="tcp:000313_0089_0FA4AA332AC5E3E0"/>
+<pb n="86" facs="unknown:000313_0089_0FA4AA332AC5E3E0"/>
 shall be performed, because thou dost not believe my words.</hi>
                </p>
                <p>
@@ -2019,7 +2019,7 @@ shall be performed, because thou dost not believe my words.</hi>
                      <desc>〈◊〉</desc>
                   </gap>: now, if the expressions of <hi>Righteous</hi> and <hi>Blameless,</hi> were applicable to <hi>Zecharias,</hi> when he was under sin; then the same expressions (<hi>sc.</hi> of <hi>Righteous</hi> and <hi>Blameless</hi>) will not argue her to be more free from sin then her Husband, there being the same reason for the one, as for the other: to deny this, were to destroy the rules of right reasoning; besides, death took hold of her, as well as of him, <hi>which is the wages of sin,</hi> Rom. 6. 23.</p>
                <p n="3">3. If the Term <hi>Blameless,</hi> should prove <hi>Zecharias</hi> and <hi>Elizabeth</hi> (in their life time) <hi>sinless,</hi> or perfect without sin, it would prove the Scrip<g ref="char:EOLhyphen"/>tures of God <hi>sinful,</hi> (which to assert were Blasphemy,) for the Holy Scriptures do utterly deny such a <hi>blamelesness,</hi> or freedome from sin in Mortals; As in <hi>Eccless,</hi> 7. 20. <hi>For there is not a just man upon the Earth, that doth good and sinneth not:</hi> that is, that sinneth not in doing good; the Spirit doth say simply, that there is not a just man, that sinneth not, but a just man that doth good, and sinneth not: intimating, that in our most religious Actions, there is some mixture of sin; hence the Prophet, <hi>Isai.</hi> 64 6. <hi>That all our Righteousness is as filthy rags;</hi> Noting to us, that no righteous work of ours is so pure but there is some taint, and filth of sin cleaving to it, which without a Mediator (in the rigor of the Law) would be damnable: so then, though the action (as to the matter) be not sinful yet there is some sin in the Action: this difference is exprest, <hi>Exod.</hi> 28 38 where the <hi>High Priest,</hi> is said, <hi>to hear the iniquity of the holy things;</hi> holy things in the matter of them, yet iniquity in the manner of performing them, <hi>Rom.</hi> 7. 18. <hi>How to perform that which is good I find not:</hi> here hence it is, that we read, 1 <hi>King.</hi> 8.46. <hi>If they sin against thee, for there is no man that sinneth not:</hi> and again, 2 <hi>Chron.</hi>6.36. <hi>For there is no man that sinneth not:</hi> whence the <hi>Apostle James,</hi> Chap. 3. 2. <hi>For in many things me offend all:</hi> he saith, We, including himself, though an eminent Saint, and an
-<pb n="87" facs="tcp:000313_0090_0FA4AA33EF191548"/>
+<pb n="87" facs="unknown:000313_0090_0FA4AA33EF191548"/>
 Apostle of great holiness; <hi>All of us offend in many things, and many of us in all things:</hi> likewise our blessed Lord and only Saviour, teacheth the choicest of Gods Children to pray unto their Father in Heaven, for day<g ref="char:EOLhyphen"/>ly and continual pardon of sin, <hi>Mat.</hi> 6 12. There is in all true Believers, a cur<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ed root of bitterness, which God doth mortifie, but not nullifie in this World: 'tis subdued, but not removed, 'tis cast down but not cast out<g ref="char:punc">▪</g> though Grace makes the combat, yet death only makes the con<g ref="char:EOLhyphen"/>quest over sin:</p>
@@ -2040,7 +2040,7 @@ Apostle of great holiness; <hi>All of us offend in many things, and many of us i
                <p>Moreover<g ref="char:punc">▪</g> 2 <hi>Tim.</hi> 3. 16. <hi>All Scripture is given by Inspiration of God, and is profitable for Doctrine, for Reproof, for Correction, f<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>r Instruction in Righteousness:</hi> that is, in the Righteousness both of Faith, and Life: And therefore as the Scripture is the Word of <hi>G</hi>od, so likewise it is the infallible standing Rule of Faith and Life.
-<pb n="88" facs="tcp:000313_0091_0FA4AA34B7B38D50"/>
+<pb n="88" facs="unknown:000313_0091_0FA4AA34B7B38D50"/>
 it being evidently so: I need not stay, to shew you the excellency of any part of the Scripture, having pointed you at such an original of the whole, which adviseth you seriously to consider, what the Lord speaks to all such as they are: we read, <hi>Numb.</hi> 15. 30 <hi>The Soul that doth ought presumptu<g ref="char:EOLhyphen"/>ously</hi> (whether he be born in the Land, or a stranger) <hi>the same reproach<g ref="char:EOLhyphen"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -2058,7 +2058,7 @@ it being evidently so: I need not stay, to shew you the excellency of any part o
                   </gap> acquaintance with the matter contained in the letter of the word of Christ, and that richly, <hi>sc.</hi> still increasing therein, that they might thereby be the better enabled, in the use of the duties of Tea<g ref="char:EOLhyphen"/>ching, Admonishing, and Singing of Psalms, in heart and voice, as its expressed and implied in the same 16<hi>th verse.</hi>
                </p>
                <p n="3">3. Those duties and services, of Teaching, Admonishing, and Sing<g ref="char:EOLhyphen"/>ing of Psalms which are <hi>Spiritual Hymns</hi> or <hi>Songs,</hi> were to be done to the Lord, (as in the same 16<hi>th verse,</hi>) that is, to the glory of the Lord: Now there are no Duties and holy Services done thus to the Lord, which are not done in obedience to his Will: but the Lord hath no other will (as a Rule of obedience) then his Will revealed in the written Scrip<g ref="char:EOLhyphen"/>tures:
-<pb n="89" facs="tcp:000313_0092_0FA4AA35E0109E40"/>
+<pb n="89" facs="unknown:000313_0092_0FA4AA35E0109E40"/>
 There is nothing that doth please God in any act of Worship, unless he sees himself obeyed: hence, I may safely infer, that the <hi>Qua<g ref="char:EOLhyphen"/>kers Worship</hi> cannot be accepted of God, because it is not only without, but against the revealed Will and Rule of Obedience, This cannot with any Truth be gainsayed or denied.</p>
                <p n="1">1. <hi>Arg.</hi> The Written Scripture cannot be the Word of God, be<g ref="char:EOLhyphen"/>cause it consists of Words.</p>
                <p>
@@ -2072,7 +2072,7 @@ There is nothing that doth please God in any act of Worship, unless he sees hims
                <p>And thus was it also taken by our Lord Jesus Christ, <hi>Luk.</hi> 16. 29, 31. <hi>Chap.</hi> 24. 44. <hi>to</hi> 47. more especially in the hour of his Temptations, he kept his mind close to the written Word of God; the Scriptures penned by <hi>Moses,</hi> Dan<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>t. 16. to repel the Devil; saying, <hi>It is written, Mat</hi> 4. <hi>ver.</hi> 4. <hi>ver.</hi> 7 <hi>ver.</hi>10. <hi>with this sword of the Spirit,</hi> three times (as you see)
-<pb n="90" facs="tcp:000313_0093_0FA4AA368D745218"/>
+<pb n="90" facs="unknown:000313_0093_0FA4AA368D745218"/>
 the Lord Jesus Christ wounds the Devil; now doth the Lords Christ thus honour the written Scriptures: who are ye then, that dishonour the same: Notwithstanding, we will hear what they have (by way of <hi>Ar<g ref="char:EOLhyphen"/>gument</hi>) to say for themselves, concerning this matter. Their</p>
                <p n="1">1. Argument, <hi>The Scripture it self sends us to the Spirit for our Rule,</hi> Gal. 5. 16. <hi>Therefore the written Scripture is not our rule of Faith and Life.</hi>
                </p>
@@ -2090,7 +2090,7 @@ the Lord Jesus Christ wounds the Devil; now doth the Lords Christ thus honour th
                   <hi>Reply,</hi> We know that Seducing <hi>Quakers</hi> teach because the Spirit is anticedent to the Scriptures, therefore none can walk in the Scriptures, till they walk in the Spirit: the Consequence is as same, as a Teaching <hi>Quaker</hi> is blind: however, it is granted, that the Spirit is <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> to the Scripture, in respect of time, or as to the revelation of the Scripture, howbeit, the Scriptures are before the Spirit, in respect of aid &amp; assistance, thus the Apostle, 1 <hi>Pet.</hi> 1. 12. <hi>But unto us they did minister the things which are now reported unto you by them, that have preached the Gospel unto you, with the Holy Ghost sent down from Heaven:</hi> which Text of Scripture clearly shews, that the Holy Spirit (in respect of special help and assi<g ref="char:EOLhyphen"/>stance) is subsequent, to the Scriptural Gospel Preached: this receives further confirmation from the Prophet, <hi>Isai.</hi> 8. 20. To the Law and to the testimony (the written word) if they speak not according to this word, it is because there is no light (or beam of the Spirit) in them;
-<pb n="91" facs="tcp:000313_0094_0FA4AA385E200940"/>
+<pb n="91" facs="unknown:000313_0094_0FA4AA385E200940"/>
 fairly intimating that the Spirits walk (in a way of aid) is in the paths of the Scriptures; and consequently no Christians can walk in the Spirit, un<g ref="char:EOLhyphen"/>less he first walk in and by the Scriptures: Again <hi>Joh.</hi> 7 33<g ref="char:punc">▪</g> 
                   <hi>He that be<g ref="char:EOLhyphen"/>lieveth on me, as the Scripture hath said, but this spake <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -2157,7 +2157,7 @@ fairly intimating that the Spirits walk (in a way of aid) is in the paths of the
                   </gap> was given from the beginning as all other parts of worship were; being carried <gap reason="illegible" resp="#AELD" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap> by tradition, from the Fathers to the Chil<g ref="char:EOLhyphen"/>dren (as in the holy stories of the <hi>Patriarchs</hi> it doth appear) as it were from hand to hand, till at last the Law was written, and the Scripture
-<pb n="92" facs="tcp:000313_0095_0FA4AA3C89F9B600"/>
+<pb n="92" facs="unknown:000313_0095_0FA4AA3C89F9B600"/>
 penned by <hi>Moses:</hi> well then, though the Rule they had before, was not an institution written, yet it was an institution sent forth, &amp; given by God himself, which Rule of Faith and Life then given, was (I say again as to the matter therein contained) the same with the instituted Rule written; now then, all that ye Teaching <hi>Quakers</hi> have said, is no more but this, <hi>sc.</hi> That you deny this way of written Scripture, to have alwayes been the only way of Gospel-conveyance; and from thence, ye pretend to ad<g ref="char:EOLhyphen"/>vance and extoll your unwritten Scripture, (that Idol-light within) that thereby ye may the more craftily throw down the Scriptures inspired of God: surely<g ref="char:punc">▪</g> this Plot cannot be from the spirit of the true Christ<g ref="char:punc">▪</g> but from your own (as the Lord knows) blind, rotten and wicked spirit, which tells you, that you are no fur<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>her bound to obey the written Scrip<g ref="char:EOLhyphen"/>tures, then your Light (that false Christ) within, shall make you wil<g ref="char:EOLhyphen"/>ling to obey.</p>
@@ -2165,7 +2165,7 @@ penned by <hi>Moses:</hi> well then, though the Rule they had before, was not an
                </p>
                <p>
                   <hi>Reply.</hi> The Father of lies, cannot make a greater lie, then that which is contained in this <hi>Argument:</hi> for it plainly makes the inspiring Spirit, and the inspired Scripture to be of different natures; which is contrary to the many Scriptures of truth afore asserted: there's not any <hi>Quaker,</hi> that hath to this day produced one Text of Scripture to make good this <hi>Argument:</hi> where is that place of Scripture to be found, which saith, <hi>the Scriptures are to be tried by the spirit?</hi> doth not the spirit it self require us 1 <hi>John</hi> 4. 1. <hi>not to believe every spirit, but to try</hi> (not the Scriptures, but) <hi>the spirits,</hi> (<hi>i. e.</hi> spiritual gifts) <hi>whether they are of God:</hi> And how did the noble Elders at <hi>Berea,</hi> try the Spirit by which <hi>Paul</hi> Preached. The 11<hi>th.</hi> verse tells us, <hi>It was by their searching of the Scriptures daily, whether these things were so;</hi> it being an Article of Faith with them, that the writ<g ref="char:EOLhyphen"/>ten Scriptures were the Churches standing Rule for Faith and Life: and therefore, <hi>ver.</hi> 12. <hi>Many of them believed,</hi> sc. That Jesus of <hi>Nazareth</hi> was the true Christ and their only Saviour: surely, the Elders above, try<g ref="char:EOLhyphen"/>ing the spirit by the search of the Scriptures doth sufficiently prove, that the spirits are to be tried by the Scripture, and not the Scripture by the spirit: the end of Gods inspiring the Scripture was that it might thereby be enabled to try the spirit; the spirit is so far from questioning or try<g ref="char:EOLhyphen"/>ing the Scripture<g ref="char:punc">▪</g> that it ever witnesseth for or against, as the Scripture witnesseth being indited by the Holy <hi>G</hi>host, 2 <hi>Pet.</hi> 1. 21. for that end, should the spirit of truth, witness otherwise then according to the inspi<g ref="char:EOLhyphen"/>red Scripture: (that is to say, if the spirit should witness one thing to be a truth in the Scripture, and another thing contrary to it in a mans Con<g ref="char:EOLhyphen"/>science)
-<pb n="93" facs="tcp:000313_0096_0FA4AA3E0E65EDA8"/>
+<pb n="93" facs="unknown:000313_0096_0FA4AA3E0E65EDA8"/>
 the spirit should be divided against it self, it should be spirit of contradiction: for instance; the spirit witnesseth in the Scripture, <hi>That the true Christ and our only Saviour was and is Jesus Christ of Nazareth, a man approved of God; who was taken by the Jews, slain and hanged upon a Tree, whom God raised from the dead the third day, and exalted to be a Prince and Saviour:</hi> Thus the spirit witnesseth in the Scriptures, <hi>Act.</hi> 2. 22,23. <hi>Chap.</hi> 5. 30,31,34.</p>
                <p>But a <hi>Quaker</hi> pretends, that the spirit witnesseth in his Conscience, that there is a light within him, which is the true Christ and only Saviour; which is not the Man Jesus of <hi>Nazareth,</hi> which the <hi>Jew:</hi> never slew, nor hanged upon a tree, nor was ever raised by <hi>G</hi>od from a bodily death.</p>
                <p>
@@ -2179,7 +2179,7 @@ the spirit should be divided against it self, it should be spirit of contradicti
                      <desc>•</desc>
                   </gap>ry, and Condemn the inspired Bible of <hi>G</hi>od to Fire and Faggot: this conclusion may (with<g ref="char:EOLhyphen"/>out breach of charity) be grounded upon the scurrilous pens of some seducing, Teaching <hi>Quakers.</hi> whom I might herein, (with their bold ex<g ref="char:EOLhyphen"/>pressions) have declared (having them by me) but I feared the swelling of these confutations, and the discouragement that might thereby be gi<g ref="char:EOLhyphen"/>ven to the Reader.</p>
                <p>By the way, I say down this <hi>Caution:</hi> to wit, though the holy and bles<g ref="char:EOLhyphen"/>sed spirit of <hi>G</hi>od, be above all tryal, yet there are spirits (even the spirits <hi>i. e.</hi> the spiritual gifts of all men) which must be submitted to tryal, whether they are of <hi>G</hi>od, <hi>i. e.</hi> of the <hi>Book of God,</hi> 2 Cor. 34. 14. wherein
-<pb n="94" facs="tcp:000313_0097_0FA4AA3EA6C6A6A8"/>
+<pb n="94" facs="unknown:000313_0097_0FA4AA3EA6C6A6A8"/>
 there is not any speech or passage, but the infinite wisdome of God hath thought fit to be recorded, as that which hath in it somewhat for ou<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> in<g ref="char:EOLhyphen"/>struction even the <gap reason="illegible" resp="#AELD" extent="1 span">
@@ -2228,7 +2228,7 @@ there is not any speech or passage, but the infinite wisdome of God hath thought
                   <hi>Reply,</hi> Let this be granted, <hi>sc. That the Light in Man was long before the written Scriptures:</hi> yet the written Scriptures do declare a truth to us more ancient then the oldest <hi>Quaker,</hi> or his Idol light within him: namely, what the <hi>El<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>hims</hi> spake each to other, saying, <hi>Let us make Man
-<pb n="95" facs="tcp:000313_0098_0FA4AA3F5FF67308"/>
+<pb n="95" facs="unknown:000313_0098_0FA4AA3F5FF67308"/>
 in our own Image, Gen.</hi> 1. 26 And having made man; it tells us, what God said, <hi>sc. Be fruitful and multiply,</hi> ver. 28. <hi>And behold I have given you of every Tree bearing fruit,</hi> ver. 29. <hi>And God commanded the man,</hi> say<g ref="char:EOLhyphen"/>ing, <hi>of every Tree of the Garden, &amp;c.</hi> Gen. 2. 16. Moreover the Scriptures tells us of divers things long before themselves were written: <hi>to wit,</hi> that (after the Fall) the Word of God was manifested to <hi>Adam</hi> and his wife, and likewise, that God manifested himself to <hi>Cain</hi> (by his word) three times, <hi>Gen:</hi> 3. 8 9. and afterward that the World of God came to <hi>Noah,</hi> and so to <hi>Abraham,</hi> and others.</p>
                <p>Now (O ye <hi>Teaching, Seducing Quakers</hi>) I would ask you this Que<g ref="char:EOLhyphen"/>stion: sc. <hi>Could your Light within tell you ought of all this, if the written Scriptures had not told it first?</hi>
                </p>
@@ -2236,7 +2236,7 @@ in our own Image, Gen.</hi> 1. 26 And having made man; it tells us, what God sai
                <p>Oh, ye poor Soul deluded, and Soul deluding ones: know assuredly, that this Doctrine of your beloved <hi>Idol light</hi> in your own addle brains) is directly contrary to what the Lord Christ said to his Father, concern<g ref="char:EOLhyphen"/>ing his, Apostles, <hi>Joh.</hi> 17. 8. <hi>I have given them thy words,</hi> (word ver. 14.) <hi>which thou gavest me, and they have received them, and have known surely, that I came out from thee, and they have believed that thou didst send me.</hi>
                </p>
                <p>Note here, that the words which the Father gave to Christ, and Christ to his Apostles, they believed; and (so believing) Preached them to the World: the Substance whereof is in their written <hi>G</hi>ospel, and Epistles: which is to true Christians, the Word of <hi>G</hi>od, and the ground of their Faith, but ye (Soul-deceivers) labour to dissolve this ground of our Christian Faith, because ye would lay a Foundation of your own humane Invention, <hi>sc.</hi> an un bloody Light within, which Idolized Light, hath no more real blood in it, then there is in the Transubstantiated Bread of your Popish Brethren; wherein both ye and they do exactly agree, in one feigned blood less Sacrifice for sin: which is evidently another <hi>Gospel,</hi> which stands under the doubted Curse of <hi>G</hi>od, <hi>Gal.</hi> 1. 8,9. which is further confirmed, <hi>Heb.</hi> 9. 22. <hi>Without shed<g ref="char:EOLhyphen"/>ding of Blood is no remission.</hi>
-                  <pb n="96" facs="tcp:000313_0099_0FA4AA3FF77D8160"/>
+                  <pb n="96" facs="unknown:000313_0099_0FA4AA3FF77D8160"/>
 O read and tremble before the irraversible decree of wrath and venge<g ref="char:EOLhyphen"/>ance go forth: for without shedding of blood (sc. <hi>true humane blood</hi>) there is no remission, as above, and consequently the unavoidable curse of hell and damnation, doth attend a non remission, which leads me to the <hi>Quakers</hi> third Principle.</p>
             </div>
             <div n="3" type="principle">
@@ -2263,7 +2263,7 @@ O read and tremble before the irraversible decree of wrath and venge<g ref="char
                   </gap>, and another thing, for man (or any other creature) to possess the infinite Essence of God, to his happiness and blessedness: for, so man only pos<g ref="char:EOLhyphen"/>sesseth God, according to his revealed will: but through the w<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>nt of a right understanding of this special difference above stated, it comes to pass, that this <hi>untoward Generation</hi> Dream, the Light within them, to be
-<pb n="97" facs="tcp:000313_0100_0FA4AA40C7DAD570"/>
+<pb n="97" facs="unknown:000313_0100_0FA4AA40C7DAD570"/>
 God in part, and hence inferr, that the Soul is God in part here, and full in God hereafter; for which they do pretend especially four Texts of Scripture, <hi>to wit,</hi> Gen 2.7. <hi>Eccles.</hi> 12. 7. <hi>Act.</hi> 17. 27. 28. 2 <hi>Pet.</hi> 1. 4.</p>
                <p>
                   <hi>Reply,</hi> To the first Scripture, <hi>Gen.</hi> 2. 7. <hi>And the Lord God formed Man of the dust of the ground, and breathed into his Nosthrils the breath of life, and Man became a living Soul:</hi> hence they argue, that the Soul (in this life) is God in part.</p>
@@ -2284,7 +2284,7 @@ God in part, and hence inferr, that the Soul is God in part here, and full in Go
                <p n="1">1. It is a made Image. 2. It is true Image. 3. It is very near and likely Image, which appears not only in the spiritual and immortal nature of it, but in rectitude of Mind, Will, Affections, Members, all pure and righteous, conformed to <hi>G</hi>ods will, <hi>Eph.</hi> 4. 24. which evidently proves, that the Soul cannot be <hi>G</hi>od the Creator, it being made as above, it must be a Creature, and consequently a created substance, and there<g ref="char:EOLhyphen"/>fore not (after a <hi>Quakers</hi> gross and absurd manner of speaking) <hi>G</hi>od in whole, or in part.</p>
                <p>
                   <hi>Again,</hi> When <hi>G</hi>od breathed into <hi>Adams</hi> liveless body, he breathed not
-<pb n="98" facs="tcp:000313_0101_0FA4AA41643E80E0"/>
+<pb n="98" facs="unknown:000313_0101_0FA4AA41643E80E0"/>
 himself, because he was there before for, God is in every thing excluded out of nothing, as before evidenced; whence, it undeniably follows, that into <hi>Adam</hi>'s liveless body, God breathed not himself, but mans reasonable Soul, which is mans proper form, and without it, Man is not a Man: So much for the first Scripture.</p>
                <p>The second Scripture, <hi>Eccles.</hi> 12.7. <hi>Then shall the dust return to the Earth, as it was, and the Spirit shall return to God who gave it:</hi> Here<g ref="char:EOLhyphen"/>hence, they argue, <hi>The Soul of Man is God in part, for God is a Spirit.</hi>
                </p>
@@ -2349,7 +2349,7 @@ himself, because he was there before for, God is in every thing excluded out of 
                      </gap> of God,</hi> is in Heaven and Earth, and all created natures: yet I do herewithal say, though all created Natures are in his, and his in theirs: but yet <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> is
-<pb n="95" facs="tcp:000313_0102_0FA4AA42F0640020"/>
+<pb n="95" facs="unknown:000313_0102_0FA4AA42F0640020"/>
 uncreated nature, and their created natures are ever distinct and different; <hi>their<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>
@@ -2365,7 +2365,7 @@ uncreated nature, and their created natures are ever distinct and different; <hi
                      </gap>st ones;</hi> causeth them to call the Soul (still the Idol<g ref="char:EOLhyphen"/>light) the <hi>Deity in part, no created substance:</hi> not discerning the hideous Blasphemies which attends this their <hi>Principle;</hi> for if the Soul of man be God in part, then the essence of God would be subject to <hi>change</hi> and <hi>pas<g ref="char:EOLhyphen"/>sion;</hi> yea, which is worse, <hi>to sin,</hi> (for so the Soul of man is in this life) these Blasphemies are the unavoidable consequences, of the Souls being God in part: I pass this, and proceed to the second part of the Principle, <hi>to wit, a Quakers infallibility.</hi>
                </p>
                <p>
-                  <pb n="96" facs="tcp:000313_0103_0FA4AA44AEF6D7A8"/>
+                  <pb n="96" facs="unknown:000313_0103_0FA4AA44AEF6D7A8"/>
                   <hi>Reply.</hi> To the second part: <hi>a Quakers infallible Spirit within <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>;</hi> their spirit of infallibility, or infallible spirit, is grounded upon the <hi>Souls being God in part;</hi> but this hath been proved to be erroneous and highly Blasphemous: the other is therefore of the same nature, (<hi>Chips of the some block</hi>) yea this their <hi>Principle</hi> of infallibility shews us, the rise and original of their Religion; I have long <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2383,7 +2383,7 @@ uncreated nature, and their created natures are ever distinct and different; <hi
                <p n="6">6. The <hi>Pope</hi> robs Christ of all his Offices.</p>
                <p n="1">1. Of his Kingly Office, in taking part of it to himself, by remitting sins, and making Laws to bind Conscience, both which a <hi>Quakers</hi> Light presumes to do, remitting sin, and binding Conscience by its laws.</p>
                <p n="2">2. The <hi>Pope</hi> robs Christ of his <hi>Priestly Office,</hi> for he doth dispose of it, gi<g ref="char:EOLhyphen"/>ving to a <hi>Masse Priest</hi> power to offer a daily propitiation Sacrifice: yea, that every <hi>Papist</hi> hath a piece of it within him, that thereby every one of them may satisfie the Justice of <hi>G</hi>od for his sins, even by his own Merits within him: and for Christs Mediatorship, as some of them do abolish it, so no <hi>Catholick</hi> desires the Man Jesus Christ to pray for Him, because
-<pb n="97" facs="tcp:000313_0104_0FA4AA45271C7F38"/>
+<pb n="97" facs="unknown:000313_0104_0FA4AA45271C7F38"/>
 each one of them hath so much of the propitiatory Sacrifice dayly <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> them, as is <hi>meritorious</hi> to satisfie the justice of God for their sins.</p>
@@ -2405,7 +2405,7 @@ each one of them hath so much of the propitiatory Sacrifice dayly <gap reason="i
                <p>Again, <hi>Mark</hi> (saith <hi>Brightman</hi>) <hi>how the</hi> Embassadors <hi>of the Empour of</hi> Sicily <hi>cry out to him</hi> (the Pope) <hi>lying groveling on the ground: O thou that takest away the sins of the World, have mercy upon us; thou that takest away the sins of the World, grant us peace.</hi> As also, <hi>what</hi> Simon Beginus saith, speaking unto Pope <hi>Leo,</hi> in the Council of <hi>Laterane,</hi> S<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ss 6. <hi>Behold the Lion of the Tribe of</hi> Judah, <hi>the Root of</hi> David: <hi>we have waited for thee</hi> (<hi>O most blessed</hi> Leo) <hi>to be our Saviour: Unto these</hi> (saith <hi>Brightman</hi>) <hi>we may joyn</hi> Cornelius <hi>the</hi> Bishop <hi>of</hi> Bipentum, <hi>who laid open his blackishness, in wondring at the</hi> Beast, <hi>in the Council of</hi> Trent: with these words, <hi>The Pope is come a Light into the World, and men have loved darkness more then Light, every one that evil doth, hateth the Light, and cometh not to the Light:</hi>
-                  <pb n="98" facs="tcp:000313_0105_0FA4AA45E4026DF8"/>
+                  <pb n="98" facs="unknown:000313_0105_0FA4AA45E4026DF8"/>
 Hence <hi>Brightman</hi> inferrs; O, <hi>out upon you, ye Blasphemous Claw-backs, i<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> it not enough for you to <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -2452,7 +2452,7 @@ Hence <hi>Brightman</hi> inferrs; O, <hi>out upon you, ye Blasphemous Claw-backs
                <p>
                   <hi>Obj.</hi> If it be said, the plural number [<hi>Us</hi>] takes in all, as well as the number three?</p>
                <p>
-                  <pb n="99" facs="tcp:000313_0106_0FA4AA4A778FA9D0"/>
+                  <pb n="99" facs="unknown:000313_0106_0FA4AA4A778FA9D0"/>
                   <hi>Answ.</hi> It doth so; but whe<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> God hath determined plurality, to three, it is time then to settl<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2490,7 +2490,7 @@ Hence <hi>Brightman</hi> inferrs; O, <hi>out upon you, ye Blasphemous Claw-backs
                <p>Qu. <hi>Whether the Father, the Son, and the Holy Ghost, are declared as three distinct witnesses?</hi>
                </p>
                <p>
-                  <pb n="100" facs="tcp:000313_0107_0FA4AA4C0FBA1F80"/>
+                  <pb n="100" facs="unknown:000313_0107_0FA4AA4C0FBA1F80"/>
                   <hi>Answ.</hi> Yes, that they are so may appear by the testimony of these Scrip<g ref="char:EOLhyphen"/>tures, <hi>Joh.</hi> 8.18. <hi>I am one that bear witness of my self, and the Father sent me beareth witness of me,</hi> and Joh. 15.26. <hi>But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testifie of me:</hi> here, we have the Father, Son, and Holy Ghost, witnessing; that is to say, the Comforter sent, the Son sending, and that from the Father, which proves them to be distinct witnesses, and by good consequence to be di<g ref="char:EOLhyphen"/>stinct persons: herewithal, let it be well observed, <hi>sc.</hi> To deny (as Tea<g ref="char:EOLhyphen"/>ching <hi>Quakers</hi> do) the Trinity of persons, in the unity of the Godhead; is, in down right terms, to deny that there is a God; for the Scripture inspired of God, saith, <hi>These three are one,</hi> Therefore to deny the Trinity, is to deny the Unity; which is <hi>Atheistical:</hi> so much in <hi>Answer</hi> to the re<g ref="char:EOLhyphen"/>quests of some of the Lords people in <hi>Barmudas.</hi>
                </p>
                <p>With whom I shall now (in a few words) leave my hearty well-wish<g ref="char:EOLhyphen"/>ing advice: beseeching them (and all the rest of the Lords People there) to be ever mindful of the Blessed Apostles resolution, <hi>Act.</hi> 21. 13. <hi>I am ready to die for the Name of the Lord Jesus Christ;</hi> a most gracious (as well as noble) resolution and fit for every good Christians imitation: which is indeed, no l<gap reason="illegible" resp="#AELD" extent="1 letter">
